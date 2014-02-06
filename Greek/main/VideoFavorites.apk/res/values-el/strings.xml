@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αγαπημένα βίντεο</string>
+    <string name="ok">ΟΚ</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="delete_dialog_title">Διαγραφή αγαπημένου</string>
+    <string name="delete_dialog_prompt">Διαγραφή %1$s από γραφικό στοιχείο;</string>
+    <string name="transcoding_prompt">Μετατροπή βίντεο</string>
+    <string name="toast_video_add_cancelled">Αποτυχία προσθήκης βίντεο</string>
+    <string name="toast_video_unsupported_resolution">Η ανάλυση βίντεο δεν υποστηρίζεται.</string>
+    <string name="toast_low_storage">Η κάρτα SD είναι πλήρης.</string>
+    <string name="toast_invalid_video">Δεν υποστηρίζεται η μορφή βίντεο.</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Φακός</string>
+    <string name="about">Σχετικά:</string>
+    <string name="about_btn">Σχετικά με το Φακός</string>
+    <string name="about_title">Σχετικά</string>
+    <string name="about_close">Κλείσιμο</string>
+    <string name="description">"Το πρόγραμμα χειρίζεται το LED της κάμερας.
+"</string>
+    <string name="warning">"Προσοχή: Αφήνοντας το LED αναμμένο για μεγάλο χρονικό διάστημα μπορεί να υπερθερμανθεί.
+
+Η πλήρης φωτεινότητα 'πάντα ενεργό' έχει δοκιμαστεί να λειτουργεί για 1/2 ώρα, αλλά υπάρχει κίνδυνος αυτό να χαλάσει το LED.
+"</string>
+    <string name="license">"Αρχικός κώδικας από Nexus One Torch από τον Ben Buxton, που διατίθεται βάσει της GPL, v3.
+http://n1torch.googlecode.com/
+
+Ευχαριστούμε τον David Prieto για το σχεδιασμό νέου UI.
+
+Τροποποιημένο για CyanogenMod από τον Steve Kondik.
+
+"</string>
+    <string name="warning_label">Προσοχή</string>
+    <string name="brightwarn">"Η πλήρης φωτεινότητα έχει δοκιμαστεί με επιτυχία για 1/2 ώρα λειτουργίας, αλλά έγινε αρκετά ζεστό, και άρχισε να τρεμοπαίζει (προσωρινά) σε 45 λεπτά. Μακροπρόθεσμες επιπτώσεις είναι άγνωστες.
+
+Αυτό δεν υποστηρίζεται από το γραφικό στοιχείο ακόμα.
+
+Κάντε κλικ στο κουμπί 'Αποδοχή', αν θέλετε να το χρησιμοποιήσετε με δική σας ευθύνη."</string>
+    <string name="brightwarn_title">"Κουμπί 'Ενεργό' υψηλής φωτεινότητας!!!"</string>
+    <string name="brightwarn_negative">Όχι ευχαριστώ</string>
+    <string name="brightwarn_accept">Αποδοχή</string>
+    <string name="label_on">Ενεργό</string>
+    <string name="label_off">Ανενεργό</string>
+    <string name="label_high">Υψηλή φωτεινότητα</string>
+    <string name="label_strobe">Στροβοσκοπικό</string>
+    <string name="label_frequency">Συχνότητα: (σύρετε για αλλαγή)</string>
+    <string name="widget_options">Γενικές επιλογές</string>
+    <string name="setting_widget_bright">Γραφικό στοιχείο φωτεινότητας</string>
+    <string name="setting_widget_strobe">Στροβοσκοπικό</string>
+    <string name="setting_frequency_title">Συχνότητα στροβοσκοπικού</string>
+    <string name="setting_frequency_summary">Συχνότητα του στροβοσκοπικού φωτισμού</string>
+    <string name="setting_frequency_dialog">Συχνότητα</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Προσθήκη γραφικού στοιχείου</string>
+    <string name="not_torch_title">Φακός ενεργός</string>
+    <string name="not_torch_summary">Ο φακός είναι τώρα ενεργός</string>
+    <string name="widget_label">Φακός</string>
+    <string name="bright_light">Έντονο φως</string>
+</resources>

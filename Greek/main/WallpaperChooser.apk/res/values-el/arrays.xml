@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="extra_wallpapers" />
+    <string-array name="choose_lockpaper">
+        <item>Προεπιλογή εικόνας κλειδώματος</item>
+        <item>Συλλογή</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_03</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_c01</item>
+        <item>wallpaper_c02</item>
+        <item>wallpaper_c03</item>
+        <item>wallpaper_c04</item>
+        <item>wallpaper_c05</item>
+        <item>wallpaper_c06</item>
+        <item>wallpaper_c07</item>
+        <item>wallpaper_c08</item>
+        <item>wallpaper_c09</item>
+    </string-array>
+</resources>

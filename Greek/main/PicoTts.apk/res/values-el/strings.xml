@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Σφάλμα</string>
+    <string name="no_market_app">Η εφαρμογή Market δεν έχει εγκατασταθεί.</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="app_name">Pico TTS</string>
+    <string name="eng_usa_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα αγγλικά με Pico.</string>
+    <string name="eng_gbr_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα αγγλικά με Pico.</string>
+    <string name="fra_fra_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα γαλλικά με Pico.</string>
+    <string name="deu_deu_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα γερμανικά με Pico.</string>
+    <string name="ita_ita_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα ιταλικά με Pico.</string>
+    <string name="spa_esp_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα ισπανικά με Pico.</string>
+    <string name="installed">Εγκατεστημένο</string>
+    <string name="not_installed">Δεν είναι εγκατεστημένο</string>
+</resources>

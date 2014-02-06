@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Διαχείριση εργασιών</string>
+    <string name="refresh">Ανανέωση</string>
+    <string name="killall">Διακοπή όλων</string>
+    <string name="totalMemory">Συνολική μνήμη</string>
+    <string name="used">Χρησιμ.</string>
+    <string name="free">Διαθέσιμη</string>
+    <string name="application">Όλες οι εφαρμογές</string>
+    <string name="sort_memory">Ταξινόμηση κατά μνήμη</string>
+    <string name="sort_title">Ταξινόμηση κατά τίτλο</string>
+    <string name="advanced">Προηγμένες</string>
+    <string name="refreshOn">Ανανεώνεται....</string>
+    <string name="alter">Ειδοποίηση</string>
+    <string name="killall_alter">Σίγουρα να διακοπούν όλα;</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="option">Επιλογές</string>
+    <string name="attribute">Πληροφορίες</string>
+    <string name="addToWhite">Προσθήκη στη λευκή λίστα</string>
+    <string name="white_list">Λευκή λίστα</string>
+    <string name="alert_user">Αυτή η λειτουργία θα διακόψει όλες τις εφαρμογές εκτός της λευκής λίστας, μπορείτε να κάνετε παρατεταμένο κλικ στο στοιχείο της λίστας για προσθήκη στη λευκή λίστα!</string>
+    <string name="not_prompt">Χωρίς ειδοποίηση</string>
+    <string name="switch_to">Μετάβαση στην εφαρμογή</string>
+    <string name="auto_clear">Αυτόματη εκκαθάριση μνήμης</string>
+    <string name="clean_finish">Η εκκαθάριση τελείωσε</string>
+    <string name="auto_appname">Αυτόματη εκκαθάριση</string>
+</resources>

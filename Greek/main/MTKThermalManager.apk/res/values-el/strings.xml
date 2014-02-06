@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK διαχείριση θερμοκρασίας</string>
+    <string name="coolers">Ψύκτες</string>
+    <string name="thermal_sensors">Θερμικοί αισθητήρες</string>
+    <string name="thermal_protection">Θερμική προστασία</string>
+    <string name="thermal_policy_file_colon">"Αρχείο πολιτικής της θερμοκρασίας: "</string>
+    <string name="apply_new_thermal_policy">Εφαρμογή νέας πολιτικής της θερμοκρασίας</string>
+    <string name="tz_device_info">Πληροφορίες συσκευής TZ</string>
+    <string name="thermal_logger">Καταγραφή θερμοκρασίας</string>
+    <string name="alert_dialog_two_buttons_title">Θερμική προειδοποίηση!</string>
+    <string name="alert_dialog_two_buttons_message">Το τηλέφωνο σύντομα θα χρειαστεί να κρυώσει λίγο!</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Άκυρο</string>
+</resources>

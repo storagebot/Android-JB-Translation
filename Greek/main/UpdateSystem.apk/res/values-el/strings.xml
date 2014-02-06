@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ενημέρωση συστήματος</string>
+    <string name="update_settings">Ενημέρωση συστήματος</string>
+    <string name="does_not_exist">Το αρχείο ενημέρωσης δεν υπάρχει.</string>
+    <string name="update_to_settings">Ενημέρωση στο σύστημα</string>
+    <string name="ok">OK</string>
+    <string name="used">χρησιμοποιημένες</string>
+    <string name="upgrade">αναβάθμιση</string>
+    <string name="update_name">αναβάθμιση</string>
+    <string name="update_content">πληροφορίες αναβάθμισης：</string>
+    <string name="update_noInfo">τίποτα</string>
+    <string name="no_update">καμία ενημέρωση</string>
+</resources>
