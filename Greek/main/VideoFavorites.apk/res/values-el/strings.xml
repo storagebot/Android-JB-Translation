@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Αγαπημένα βίντεο</string>
     <string name="ok">ΟΚ</string>
-    <string name="cancel">Ακύρωση</string>
+    <string name="cancel">Άκυρο</string>
     <string name="delete_dialog_title">Διαγραφή αγαπημένου</string>
     <string name="delete_dialog_prompt">Διαγραφή %1$s από γραφικό στοιχείο;</string>
     <string name="transcoding_prompt">Μετατροπή βίντεο</string>

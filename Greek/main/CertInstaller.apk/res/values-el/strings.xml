@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Πρόγραμμα εγκατάστασης πιστοποιητικών</string>
+    <string name="app_name">Eγκατάσταση πιστοποιητικών</string>
     <string name="pick_file_title">Επιλογή πιστοποιητικού</string>
     <string name="pkcs12_password_dialog_title">Εξαγωγή πιστοποιητικού</string>
     <string name="extracting_pkcs12">Εξαγωγή...</string>

@@ -10,5 +10,5 @@
     <string name="set_live_wallpaper">Ορισμός ταπετσαρίας</string>
     <string name="wallpaper_title_and_author">%1$sτου/της %2$s</string>
     <string name="live_wallpaper_loading">Φόρτωση ζωντανής ταπετσαρίας...</string>
-    <string name="wallpaper_cancel">Ακύρωση</string>
+    <string name="wallpaper_cancel">Άκυρο</string>
 </resources>

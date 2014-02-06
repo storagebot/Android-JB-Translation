@@ -10,7 +10,7 @@
     <string name="reset_command_prompt_last">Η μοναδική φωνητική εντολή θα επαναφερθεί. Το κλείδωμα οθόνης θα αλλάξει σε Ολίσθηση.</string>
     <string name="voice_unlock_options_title">Επιλογές</string>
     <string name="voice_unlock_ok_label">ΟΚ</string>
-    <string name="voice_unlock_cancel_label">Ακύρωση</string>
+    <string name="voice_unlock_cancel_label">Άκυρο</string>
     <string name="voice_unlock_retry_label">Νέα προσπάθεια</string>
     <string name="voice_unlock_record_label">Καταγραφή</string>
     <string name="voice_unlock_continue_label">Συνέχεια</string>

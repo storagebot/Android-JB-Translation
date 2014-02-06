@@ -9,7 +9,7 @@
     <string name="calendar_lable">"Ημερολόγιο: "</string>
     <string name="date_lable">"Ημερομηνία: "</string>
     <string name="import_title">Εισαγωγή συμβάντος ημερολογίου</string>
-    <string name="importing">Εισαγωγή ...</string>
+    <string name="importing">Εισαγωγή...</string>
     <string name="import_complete">Η εισαγωγή ολοκληρώθηκε</string>
     <string name="open">Άνοιγμα</string>
     <string name="done">Τέλος</string>

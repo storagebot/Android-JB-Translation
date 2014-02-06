@@ -169,7 +169,7 @@
     <string name="access_sd_fail">Δεν ήταν δυνατή η πρόσβαση στην κάρτα SD.</string>
     <string name="confirm_restore_message">Θέλετε να επαναφέρετε τις προεπιλεγμένες ρυθμίσεις της κάμερας;</string>
     <string name="review_play">Αναπαραγωγή</string>
-    <string name="review_cancel">Ακύρωση</string>
+    <string name="review_cancel">Άκυρο</string>
     <string name="review_ok">Τέλος</string>
     <string name="review_retake">Νέα λήψη</string>
     <string name="camera_gallery_photos_text">Συλλογή</string>
@@ -459,7 +459,7 @@
     <string name="camera_setas_wallpaper">Ταπετσαρία</string>
     <string name="delete">Διαγραφή</string>
     <string name="confirm">Επιβεβαίωση</string>
-    <string name="cancel">Ακύρωση</string>
+    <string name="cancel">Άκυρο</string>
     <string name="share">Κοινή χρήση</string>
     <string name="share_panorama">Κοινή χρήση πανοράματος</string>
     <string name="share_as_photo">Κοινή χρήση ως φωτογραφία</string>

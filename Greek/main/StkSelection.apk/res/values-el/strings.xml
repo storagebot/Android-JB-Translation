@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Εργαλειοθ. SIM</string>
+    <string name="app_name">Εργαλειοθήκη SIM</string>
     <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στο τηλέφωνό σας.</string>
     <string name="simlock_toolkit">Εργαλειοθ. SIM</string>
     <string name="no_sim_card_inserted">Παρακαλώ εισάγετε SIM για να ξεκινήσει η εργαλειοθήκη SIM.</string>

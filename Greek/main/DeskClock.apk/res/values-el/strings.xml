@@ -99,7 +99,7 @@
     <string name="timer_plus_one">Προσθήκη 1 λεπτού</string>
     <string name="timer_stop">Διακοπή</string>
     <string name="timer_reset">Επαναφορά</string>
-    <string name="timer_cancel">Ακύρωση</string>
+    <string name="timer_cancel">Άκυρο</string>
     <string name="timer_times_up">Ο χρόνος έχει τελειώσει</string>
     <string name="timer_notification_label">Ξυπνητήρι</string>
     <string name="home_label">Αρχική σελίδα</string>
@@ -112,7 +112,7 @@
     <string name="automatic_home_clock_summary">Όταν ταξιδεύετε σε μια περιοχή με διαφορετική ώρα, να προστίθεται ένα ρολόι με την ώρα της χώρας προέλευσής σας</string>
     <string name="home_time_zone">Βασική ζώνη ώρας</string>
     <string name="home_time_zone_title">Βασική ζώνη ώρας</string>
-    <string name="time_picker_cancel">Ακύρωση</string>
+    <string name="time_picker_cancel">Άκυρο</string>
     <string name="time_picker_set">OK</string>
     <string name="time_picker_time_seperator">:</string>
     <string name="time_picker_ampm_label">--</string>

@@ -114,7 +114,7 @@
     <string name="debug_title">Εντοπισμός σφαλμάτων</string>
     <string name="next_action">Επόμενο</string>
     <string name="okay_action">ΟΚ</string>
-    <string name="cancel_action">Ακύρωση</string>
+    <string name="cancel_action">Άκυρο</string>
     <string name="previous_action">Προηγούμενο</string>
     <string name="send_action">Αποστολή</string>
     <string name="reply_action">Απάντηση</string>

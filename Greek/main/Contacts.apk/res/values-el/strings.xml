@@ -38,7 +38,7 @@
     <string name="call_log_item_count">(%1$d)</string>
     <string name="call_indicator_3g">3G</string>
     <string name="call_suggested">Προτείνεται</string>
-    <string name="call_sipcall">Κλήση Internet</string>
+    <string name="call_sipcall">Κλήση διαδικτύου</string>
     <string name="call_pin_dialog_title">Επιλογή κάρτας SIM</string>
     <string name="call_ghost_data_phone">Φωνητικό όνομα</string>
     <string name="call_people">Άτομα</string>
@@ -101,8 +101,8 @@
     <string name="AirPlane_mode_on">Δεν είναι δυνατή η αποθήκευση επαφής όταν είναι ενεργοποιημένη η λειτουργία πτήσης.</string>
     <string name="FDNEnabled">Δεν είναι δυνατή η αποθήκευση επαφής όταν είναι ενεργοποιημένη η λειτουργία FDN.</string>
     <string name="sim_invalid_number">Δεν είναι δυνατή η αποθήκευση μη έγκυρου αριθμού.</string>
-    <string name="email_invalid">Δεν είναι δυνατή η αποθήκευση μη έγκυρου E-mail.</string>
-    <string name="email_2g_invalid">Δεν είναι δυνατή η αποθήκευση E-mail σε SIM 2G. Επιλέξτε SIM 3G για αποθήκευση.</string>
+    <string name="email_invalid">Δεν είναι δυνατή η αποθήκευση μη έγκυρου email.</string>
+    <string name="email_2g_invalid">Δεν είναι δυνατή η αποθήκευση email σε SIM 2G. Επιλέξτε SIM 3G για αποθήκευση.</string>
     <string name="sim_invalid_fix_number">Δεν είναι δυνατή η αποθήκευση μη έγκυρου καθορισμένου αριθμού.</string>
     <string name="AirPlane_mode_on_edit">Δεν είναι δυνατή η επεξεργασία επαφής όταν είναι ενεργοποιημένη η λειτουργία πτήσης.</string>
     <string name="msg_loading_sim_contacts_toast">Γίνεται φόρτωση επαφών SIM στο παρασκήνιο, περιμένετε μια στιγμή.</string>
@@ -111,7 +111,7 @@
     <string name="storage_full">Ο χώρος αποθήκευσης είναι πλήρης.</string>
     <string name="number_too_long">Ο αριθμός είναι πολύ μεγάλος.</string>
     <string name="generic_failure">Γενικό σφάλμα.</string>
-    <string name="email_too_long">Το E-mail είναι πολύ μεγάλο.</string>
+    <string name="email_too_long">Το email είναι πολύ μεγάλο.</string>
     <string name="send_groupsms_no_number_more">Η επαφή %1$s και %2$s ακόμα επαφές δεν έχουν έγκυρο αριθμό τηλεφώνου.</string>
     <string name="send_groupsms_no_number_1">Η επαφή %1$s δεν έχει έγκυρο αριθμό τηλεφώνου.</string>
     <string name="send_groupsms_no_number_2">Οι επαφές %1$s και %2$s δεν έχουν έγκυρο αριθμό τηλεφώνου.</string>
@@ -127,15 +127,15 @@
     <string name="move_contacts_to">Μετακίνηση επαφών σε</string>
     <string name="menu_move_group">Μετακίνηση μελών ομάδας</string>
     <string name="menu_message_group">Αποστολή ομαδικού μηνύματος</string>
-    <string name="menu_email_group">Αποστολή ομαδικού E-mail</string>
+    <string name="menu_email_group">Αποστολή ομαδικού email</string>
     <string name="moving_group_members">Μετακίνηση μελών ομάδας...</string>
     <string name="removing_group_members_sucess">Κατάργηση μελών ομάδας με επιτυχία</string>
     <string name="removing_group_members_fail">Η κατάργηση μελών ομάδας απέτυχε</string>
     <string name="moving_group_members_sucess">Μετακίνηση μελών ομάδας με επιτυχία</string>
     <string name="moving_group_members_fail">Η μετακίνηση μελών ομάδας απέτυχε</string>
     <string name="no_valid_number_in_group">Αυτή η ομάδα δεν έχει επαφή με έγκυρο αριθμό τηλεφώνου.</string>
-    <string name="no_valid_email_in_group">Αυτή η ομάδα δεν έχει επαφή με διεύθυνση E-mail.</string>
-    <string name="email_error">Πρέπει να εγκαταστήσετε την εφαρμογή E-mail ή να ρυθμίσετε τις παραμέτρους του λογαριασμού σας!</string>
+    <string name="no_valid_email_in_group">Αυτή η ομάδα δεν έχει επαφή με διεύθυνση email.</string>
+    <string name="email_error">Πρέπει να εγκαταστήσετε την εφαρμογή email ή να ρυθμίσετε τις παραμέτρους του λογαριασμού σας!</string>
     <string name="usim_group_name_exceed_limit">Το όνομα της ομάδας είναι πολύ μεγάλο για τη USIM.</string>
     <string name="usim_group_count_exceed_limit">Δεν είναι δυνατή η προσθήκη περισσότερων νέων ομάδων στη USIM.</string>
     <string name="usim_group_name_exceed_limit_export">Δεν είναι δυνατή η εισαγωγή των επαφών με πολύ μεγάλο όνομα ομάδας στη USIM.</string>
@@ -206,7 +206,7 @@
     <string name="no_vm_number_msg">Δεν υπάρχει αριθμός τηλεφωνητή αποθηκευμένος στην κάρτα SIM.</string>
     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
     <string name="reminder">Υπενθύμιση</string>
-    <string name="enable_sip_dialog_message">Η κλήση Internet είναι απενεργοποιημένη. Θέλετε να την ενεργοποιήσετε;</string>
+    <string name="enable_sip_dialog_message">Η κλήση διαδικτύου είναι απενεργοποιημένη. Θέλετε να την ενεργοποιήσετε;</string>
     <string name="share_contacts_limit">Οι επιλεγμένες επαφές για κοινή χρήση δεν μπορούν να είναι περισσότερες από 3500</string>
     <string name="contact_delete_all_tips">Εκτελείται ήδη μια διαγραφή επαφών στο παρασκήνιο. Εάν θέλετε να ξεκινήσετε μια νέα διαγραφή επαφών, πρώτα ακυρώστε αυτήν.</string>
     <string name="move">Μετακίνηση</string>
@@ -216,8 +216,8 @@
     <string name="file_already_on_sd_card">Το αρχείο βρίσκεται ήδη στην κάρτα SD.</string>
     <string name="send_file_sms_error">Δεν είναι δυνατή η κοινή χρήση του αρχείου μέσω SMS. Χρησιμοποιήστε MMS.</string>
     <string name="user_profile_cannot_sd_card">Δεν είναι δυνατή η κοινή χρήση του περιεχομένου με αυτήν τη μέθοδο.</string>
-    <string name="error_save_usim_contact_email_lost">Η αποθήκευση της διεύθυνσης E-mail απέτυχε επειδή ο χώρος αποθήκευσης USIM για E-mail είναι πλήρης.</string>
-    <string name="error_import_usim_contact_email_lost" formatted="false">"Προκλήθηκε αποτυχία επειδή ο χώρος αποθήκευσης USIM για E-mail είναι πλήρης.
+    <string name="error_save_usim_contact_email_lost">Η αποθήκευση της διεύθυνσης email απέτυχε επειδή ο χώρος αποθήκευσης USIM για email είναι πλήρης.</string>
+    <string name="error_import_usim_contact_email_lost" formatted="false">"Προκλήθηκε αποτυχία επειδή ο χώρος αποθήκευσης USIM για email είναι πλήρης.
 Έχουν ολοκληρωθεί: %d
 Δεν έχουν ολοκληρωθεί: %d"</string>
     <string name="type_ip_outgoing">Εξερχόμενη κλήση IP ( %s)</string>
@@ -230,9 +230,9 @@
     <string name="look_simstorage">Προβολή χωρητικότητας κάρτας SIM</string>
     <string name="dlg_simstorage_content" formatted="false">η χωρητικότητα του χώρου αποθήκευσης αριθμών τηλεφώνου %d, έχει χρησιμοποιηθεί %d.</string>
     <string name="contact_group_list_title">Επιλογή ομάδας - στόχου</string>
-    <string name="send_groupemail_no_number_more">Η επαφή %1$s και %2$s ακόμα επαφές δεν έχουν έγκυρο E-mail.</string>
-    <string name="send_groupemail_no_number_1">Η επαφή %1$s δεν έχει έγκυρο E-mail.</string>
-    <string name="send_groupemail_no_number_2">Οι επαφές %1$s και %2$s δεν έχουν έγκυρο E-mail.</string>
+    <string name="send_groupemail_no_number_more">Η επαφή %1$s και %2$s ακόμα επαφές δεν έχουν έγκυρο email.</string>
+    <string name="send_groupemail_no_number_1">Η επαφή %1$s δεν έχει έγκυρο email.</string>
+    <string name="send_groupemail_no_number_2">Οι επαφές %1$s και %2$s δεν έχουν έγκυρο email.</string>
     <string name="add_contact_dlg_title">Προσθήκη επαφής</string>
     <string name="aggregation_suggestion_edit_dialog_title">Επεξεργασία επιλεγμένων επαφών</string>
     <string name="aggregation_suggestion_join_dialog_title">Ένωση επαφών</string>
@@ -338,10 +338,10 @@
     <string name="multipleContactDeleteConfirmation">Εάν διαγράψετε αυτήν την επαφή, θα γίνει διαγραφή των πληροφοριών από πολλούς λογαριασμούς.</string>
     <string name="deleteConfirmation">Αυτή η επαφή θα διαγραφεί.</string>
     <string name="menu_done">Τέλος</string>
-    <string name="menu_doNotSave">Ακύρωση</string>
+    <string name="menu_doNotSave">Άκυρο</string>
     <string name="menu_discard">Απόρριψη</string>
     <string name="label_notes">Σημειώσεις</string>
-    <string name="label_sip_address">Κλήση Internet</string>
+    <string name="label_sip_address">Κλήση διαδικτύου</string>
     <string name="ghostData_company">Εταιρεία</string>
     <string name="ghostData_title">Τίτλος</string>
     <string name="invalidContactMessage">Η επαφή δεν υπάρχει.</string>
@@ -381,7 +381,7 @@
     <string name="listFoundAllContactsZero">Δεν υπάρχουν επαφές</string>
     <string name="contactsAllLabel">Όλες οι επαφές</string>
     <string name="contactsGroupsLabel">Ομάδες</string>
-    <string name="contactsFavoritesLabel">Αγαπ.</string>
+    <string name="contactsFavoritesLabel">Αγαπημένα</string>
     <string name="dialerIconLabel">Τηλέφωνο</string>
     <string name="recentCallsIconLabel">Αρχείο</string>
     <string name="menu_sendTextMessage">Αποστολή μηνύματος κειμένου</string>
@@ -486,7 +486,7 @@
     <string name="callDetailsDurationFormat" formatted="false">%s λεπτά %s δευτερόλεπτα</string>
     <string name="favoritesFrequentContacted">Επαφές που έχετε συχνή επικοινωνία</string>
     <string name="favoritesFrequentCalled">Συχνές κλήσεις</string>
-    <string name="add_contact_dlg_message_fmt">Προσθήκη του \"%s\" στις επαφές?</string>
+    <string name="add_contact_dlg_message_fmt">Προσθήκη του \"%s\" στις επαφές;</string>
     <string name="description_image_button_one">ένα</string>
     <string name="description_image_button_two">δύο</string>
     <string name="description_image_button_three">τρία</string>
@@ -511,7 +511,7 @@
     <string name="no_sdcard_message">Δεν βρέθηκε κάρτα SD.</string>
     <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
     <string name="import_from_sdcard">Εισαγωγή από τον χώρο αποθ.</string>
-    <string name="export_to_sdcard">Εξαγωγή στον χώρο αποθ.</string>
+    <string name="export_to_sdcard">Εξαγωγή στον χώρο αποθήκευσης</string>
     <string name="share_visible_contacts">Κοινή χρήση ορατών επαφών</string>
     <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου VCard</string>
     <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
@@ -641,12 +641,12 @@
     <string name="sms_assistant">Αποστολή μηνύματος κειμένου προς %s</string>
     <string name="sms_mms">Αποστολή μηνύματος κειμένου ως MMS</string>
     <string name="sms">Μήνυμα κειμένου</string>
-    <string name="email_home">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου προς οικία</string>
-    <string name="email_mobile">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου προς κινητή συσκευή</string>
-    <string name="email_work">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου προς εργασία</string>
-    <string name="email_other">Μήνυμα ηλεκτρονικού ταχυδρομείου</string>
-    <string name="email_custom">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου προς %s</string>
-    <string name="email">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="email_home">Αποστολή email προς οικία</string>
+    <string name="email_mobile">Αποστολή email προς κινητή συσκευή</string>
+    <string name="email_work">Αποστολή email προς εργασία</string>
+    <string name="email_other">Email</string>
+    <string name="email_custom">Αποστολή email προς %s</string>
+    <string name="email">Διεύθυνση email</string>
     <string name="map_home">Προβολή διεύθυνσης οικίας</string>
     <string name="map_work">Προβολή διεύθυνσης εργασίας</string>
     <string name="map_other">Προβολή διεύθυνσης</string>

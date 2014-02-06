@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_op02_text_encoding_choices">
-        <item>Αυτόματος ανιχνευτής</item>
+        <item>Αυτόματη ανίχνευση</item>
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
         <item>Unicode (UTF-16)</item>
@@ -56,7 +56,7 @@
         <item>Κοντά</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
-        <item>Auto detector</item>
+        <item>Αυτόματη ανίχνευση</item>
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
         <item>Κινεζικά (GBK)</item>

@@ -7,9 +7,9 @@
     <string name="save_lockpaper">Ρύθμιση εικόνας κλειδώματος, παρακαλώ περιμένετε...</string>
     <string name="save_wallpaper">Ρύθμιση ταπετσαρίας, παρακαλώ περιμένετε...</string>
     <string name="wallpaper_instructions">Ρύθμιση ταπετσαρίας</string>
-    <string name="wallpaper_text">HTC ταπετσαρία</string>
+    <string name="wallpaper_text">Ταπετσαρία HTC</string>
     <string name="save_picture_to_wallpaper">Ταπετσαρία</string>
-    <string name="save_picture_to_lockpaper">Εικόνας κλειδώματος</string>
+    <string name="save_picture_to_lockpaper">Εικόνα κλειδώματος</string>
     <string name="save">Ρύθμιση</string>
     <string name="cancel">Άκυρο</string>
     <string name="title">Προεπισκόπηση ταπετσαρίας</string>

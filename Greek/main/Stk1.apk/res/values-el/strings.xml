@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SIM Toolkit</string>
+    <string name="app_name">Εργαλειοθήκη SIM</string>
     <string name="menu_end_session">Λήξη περιόδου σύνδεσης</string>
     <string name="help">Βοήθεια</string>
     <string name="menu_back">Πίσω</string>
     <string name="service_name">Όνομα υπηρεσίας</string>
     <string name="stk_no_service">Δεν υπάρχει διαθέσιμη υπηρεσία</string>
     <string name="button_ok">Eντάξει</string>
-    <string name="button_cancel">Ακύρωση</string>
+    <string name="button_cancel">Άκυρο</string>
     <string name="button_yes">Ναι</string>
     <string name="button_no">Όχι</string>
     <string name="alphabet">Αλφαβητικοί</string>

@@ -12,7 +12,7 @@
     <string name="alert_delete_single">Αυτό το στοιχείο θα διαγραφεί</string>
     <string name="ok">OK</string>
     <string name="delete">Διαγραφή</string>
-    <string name="deleting">Διαγραφή</string>
+    <string name="deleting">Διαγράφεται</string>
     <string name="no_recording_file">(Δεν υπάρχει αρχείο εγγραφής)</string>
     <string name="recording_file_list">Λίστα αρχείων εγγραφής</string>
     <string name="recording_paused">Η εγγραφή είναι σε παύση</string>
@@ -24,12 +24,12 @@
     <string name="select_recording_effect">Επιλογή εφέ εγγραφής</string>
     <string name="recording_mode_nomal">Κανονική</string>
     <string name="time_available" formatted="false">%d λεπτά %dδ διαθέσιμα</string>
-    <string name="recording_mode_meeting">Λειτουργία συνεδρίου</string>
+    <string name="recording_mode_meeting">Λειτουργία συνάντησης</string>
     <string name="recording_mode_lecture">Διάλεξη</string>
-    <string name="sd_unmounted">Η κάρτα SD είναι αποσυνδεδεμένη.</string>
+    <string name="sd_unmounted">Η κάρτα SD είναι αποπροσαρτημένη.</string>
     <string name="storage_low">Ο προεπιλεγμένος χώρος αποθήκευσης εξαντλείται. Διακόψτε την εγγραφή ή διαγράψτε στοιχεία από την κάρτα SD.</string>
     <string name="storage_full">Ο προεπιλεγμένος χώρος αποθήκευσης είναι πλήρης.</string>
-    <string name="sd_no">Εισαγάγετε μια κάρτα SD.</string>
+    <string name="sd_no">Εισάγετε μια κάρτα SD.</string>
     <string name="recording_fail">Αποτυχία εγγραφής</string>
     <string name="recorder_occupied">Το πρόγραμμα εγγραφής χρησιμοποιείται από άλλη εφαρμογή.</string>
     <string name="playing_fail">Αποτυχία αναπαραγωγής</string>
@@ -59,7 +59,7 @@
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="record_your_message">Εγγράψτε το μήνυμά σας</string>
     <string name="message_recorded">Το μήνυμα καταγράφηκε</string>
-    <string name="review_message">Επισκόπηση μηνύματος</string>
+    <string name="review_message">Προεπισκόπηση μηνύματος</string>
     <string name="audio_db_artist_name">Οι εγγραφές σας</string>
     <string name="error_app_internal">Εσωτερικό σφάλμα εφαρμογής.</string>
 </resources>
