@@ -39,8 +39,8 @@
     <string name="send_failed_title">Αποτυχία αποστολής email</string>
     <string name="general_preference_auto_download_remaining_label">Αυτόματες λήψεις που απομένουν</string>
     <string name="general_preference_auto_download_remaining_summary">Σώμα αυτόματων λήψεων που απομένει κατά την κύλιση προς τα κάτω</string>
-    <string name="always_bcc_myself">Πάντα ιδιαίτερη κοινοποίηση σε εμένα</string>
-    <string name="always_bcc_myself_summary">Πάντα ιδιαίτερη κοινοποίηση σε εμένα κατά τη σύνταξη, απάντηση και προώθηση</string>
+    <string name="always_bcc_myself">Πάντα ιδιωτική κοινοποίηση σε εμένα</string>
+    <string name="always_bcc_myself_summary">Πάντα ιδιωτική κοινοποίηση σε εμένα κατά τη σύνταξη, απάντηση και προώθηση</string>
     <string name="edit_compose_quoted_text_label">Ενσωματωμένη απόκριση</string>
     <string name="remote_search_failed">Η αναζήτηση του διακομιστή απέτυχε!</string>
     <string name="searching_on_server">Αναζήτηση στο διακομιστή</string>
@@ -67,7 +67,7 @@
     <string name="not_add_duplicate_vip">Η διπλότυπη επαφή δεν θα προστεθεί στη λίστα VIP.</string>
     <string name="can_not_add_vip_over_99">Δεν είναι δυνατή η προσθήκη μέλους VIP πάνω από τα 99</string>
     <string name="vip_count">0</string>
-    <string name="vip_settings_ringtone">Επιλέξτε ήχο κλήσης</string>
+    <string name="vip_settings_ringtone">Επιλογή ήχου κλήσης</string>
     <string name="vip_settings_vibrate_label">Δόνηση</string>
     <string name="vip_settings_vibrate_summary">Δόνηση και κατά τη λήψη email VIP</string>
     <string name="vip_settings_member_count">%2d</string>
@@ -298,7 +298,7 @@
     <string name="account_setup_basics_email_label">Διεύθυνση email</string>
     <string name="account_setup_basics_password_label">Κωδικός πρόσβασης</string>
     <string name="account_setup_basics_default_label">Αποστολή μηνυμάτων email από αυτόν τον λογαριασμό από προεπιλογή.</string>
-    <string name="account_setup_basics_manual_setup_action">Μη αυτόματη ρύθμιση</string>
+    <string name="account_setup_basics_manual_setup_action">Χειροκίνητη ρύθμιση</string>
     <string name="account_setup_username_password_toast">Πληκτρολογήστε μια έγκυρη διεύθυνση email και έναν έγκυρο κωδικό πρόσβασης.</string>
     <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
     <string name="account_duplicate_dlg_message_fmt">Χρησιμοποιείτε ήδη αυτό το όνομα χρήστη για τον λογαριασμό \"%s\".</string>
@@ -457,7 +457,7 @@
     <string name="account_settings_vibrate_when_silent">Μόνο στο αθόρυβο</string>
     <string name="account_settings_vibrate_when_never">Ποτέ</string>
     <string name="account_settings_vibrate_when_dlg_title">Δόνηση</string>
-    <string name="account_settings_ringtone">Επιλέξτε ήχο κλήσης</string>
+    <string name="account_settings_ringtone">Επιλογή ήχου κλήσης</string>
     <string name="account_settings_servers">Ρυθμίσεις διακομιστή</string>
     <string name="account_delete_dlg_title">Κατάργηση λογαριασμού</string>
     <string name="account_delete_dlg_instructions_fmt">Ο λογαριασμός \"%s\" θα καταργηθεί από το email.</string>
@@ -469,8 +469,8 @@
     <string name="mailbox_settings_mailbox_check_frequency_label">Ελέγξτε τη συχνότητα</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Ημέρες για συγχρονισμό</string>
     <string name="account_shortcut_picker_name">Λογαριασμός email</string>
-    <string name="account_shortcut_picker_title">Επιλέξτε λογαριασμό</string>
-    <string name="mailbox_shortcut_picker_title">Επιλέξτε φάκελο</string>
+    <string name="account_shortcut_picker_title">Επιλογή λογαριασμού</string>
+    <string name="mailbox_shortcut_picker_title">Επιλογή φακέλου</string>
     <string name="toast_account_not_found">Ο λογαριασμός δεν βρέθηκε. Ενδέχεται να έχει καταργηθεί.</string>
     <string name="toast_mailbox_not_found">Ο φάκελος δεν βρέθηκε. Ενδέχεται να έχει καταργηθεί.</string>
     <string name="provider_note_live">Μόνο ορισμένοι λογαριασμοί \"Plus\" περιλαμβάνουν πρόσβαση POP και επιτρέπουν στο πρόγραμμα αυτό να συνδεθεί. Εάν δεν μπορείτε να συνδεθείτε με τη σωστή διεύθυνση email και τον κωδικό πρόσβασης, ενδέχεται να μην έχετε πληρωμένο λογαριασμό \"Plus\". Εκκινήστε το πρόγραμμα περιήγησης ιστού, για να αποκτήσετε πρόσβαση σε αυτούς τους λογαριασμούς email.</string>
@@ -482,7 +482,7 @@
     <string name="device_admin_description">Ενεργοποιεί πολιτικές ασφαλείας καθορισμένες από διακομιστή</string>
     <string name="gal_searching_fmt">Αναζήτηση %s...</string>
     <string name="settings_activity_title">Ρυθμίσεις</string>
-    <string name="header_label_general_preferences">Γενικές</string>
+    <string name="header_label_general_preferences">Γενικά</string>
     <string name="category_general_preferences">Εφαρμογή</string>
     <string name="general_preference_auto_advance_label">Αυτόματη συνέχιση</string>
     <string name="general_preference_auto_advance_summary">Επιλογή οθόνης που εμφανίζεται μετά τη διαγραφή ενός μηνύματος</string>
