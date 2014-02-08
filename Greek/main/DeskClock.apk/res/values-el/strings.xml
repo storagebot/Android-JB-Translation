@@ -147,5 +147,4 @@
     <string name="timer_delete_confirmation">Διαγραφή αυτού του ξυπνητηριού;</string>
     <string name="city_delete_confirmation">Να διαγραφεί αυτή η πόλη;</string>
     <string name="digital_gadget">Ψηφιακό ρολόι</string>
-    <string name="widget_loading_ms">Φόρτωση</string>
 </resources>
