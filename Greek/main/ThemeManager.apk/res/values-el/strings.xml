@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πάροχος θεμάτων</string>
+    <string name="permlab_access_DrmThemeResources">Ανάγνωση πόρων πολυμέσων με προστασία DRM</string>
+    <string name="permdesc_access_DrmThemeResources">Επιτρέπει σε μια εφαρμογή την πρόσβαση ανάγνωσης πόρων πολυμέσων με προστασία DRM των πακέτων θέματος</string>
+    <string name="permlab_set_theme">Ορισμός εφαρμογής θέματος παντού</string>
+    <string name="permdesc_set_theme">Επιτρέπει σε μια εφαρμογή την αλλαγή του οπτικού θέματος στο τηλέφωνό σας.</string>
+</resources>

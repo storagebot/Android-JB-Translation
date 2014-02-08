@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Τυπικό</item>
+        <item>Ταμπλέτα</item>
+        <item>Μεγέθυνση</item>
+        <item>Σμίκρυνση</item>
+        <item>Περιστροφή πάνω</item>
+        <item>Περιστροφή κάτω</item>
+        <item>Κύβος μέσα</item>
+        <item>Κύβος έξω</item>
+        <item>Στοίβα</item>
+    </string-array>
+</resources>

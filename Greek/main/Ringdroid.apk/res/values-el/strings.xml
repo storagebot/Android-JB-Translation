@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ringdroid_app_name">Ringdroid</string>
+    <string name="main_activity_label">Ringdroid</string>
+    <string name="search_edit_box">Αναζήτηση</string>
+    <string name="button_start_record_activity">Εγγραφή νέου</string>
+    <string name="sdcard_readonly">Συγνώμη, η κάρτα SD έχει τοποθετηθεί ως μόνο για ανάγνωση και το Ringdroid απαιτεί να είναι εγγράψιμη.</string>
+    <string name="no_sdcard">Συγνώμη, το Ringdroid δεν μπορεί να τρέξει, εκτός αν έχετε εισάγει μια κάρτα SD.</string>
+    <string name="sdcard_shared">Συγνώμη, το Ringdroid δεν μπορεί να τρέξει, ενώ η συσκευή σας είναι τοποθετημένη ως μια συσκευή USB.</string>
+    <string name="button_options">Επιλογές</string>
+    <string name="start_label">Έναρξη:</string>
+    <string name="end_label">Τέλος:</string>
+    <string name="edit_intent">Επεξεργασία</string>
+    <string name="time_seconds">δευτερόλεπτα</string>
+    <string name="what_to_do_with_ringtone">Αποθηκεύτηκε! Να γίνει αυτός ο ήχος κλήσης προεπιλεγμένος ή να τον αντιστοιχίσετε σε μια επαφή;</string>
+    <string name="set_default_notification">Αποθηκεύτηκε! Να γίνει αυτό η προεπιλεγμένη ειδοποίησή σας;</string>
+    <string name="set_default_alarm">Saved! Να γίνει αυτό το προεπιλεγμένο ξυπνητήρι σας;</string>
+    <string name="make_default_ringtone_button">Να γίνει προεπιλεγμένο</string>
+    <string name="choose_contact_ringtone_button">Αντιστοίχιση σε επαφή</string>
+    <string name="do_nothing_with_ringtone_button">Κλείσιμο</string>
+    <string name="progress_dialog_loading">Φόρτωση...</string>
+    <string name="progress_dialog_saving">Αποθήκευση...</string>
+    <string name="start_marker">Δείκτης αρχής</string>
+    <string name="end_marker">Δείκτης τέλους</string>
+    <string name="rewind">Μετακίνηση πίσω</string>
+    <string name="play">Αναπαραγωγή</string>
+    <string name="stop">Διακοπή</string>
+    <string name="ffwd">Γρήγορη προώθηση</string>
+    <string name="zoom_in">Μεγέθυνση</string>
+    <string name="zoom_out">Σμίκρυνση</string>
+    <string name="save_button">Αποθήκευση</string>
+    <string name="menu_save">Αποθήκευση</string>
+    <string name="menu_reset">Επαναφορά</string>
+    <string name="menu_about">Σχετικά</string>
+    <string name="menu_privacy">Ιδιωτικό</string>
+    <string name="menu_show_all_audio">Εμφάνιση όλων των ήχων</string>
+    <string name="context_menu_edit">Επεξεργασία</string>
+    <string name="context_menu_delete">Διαγραφή</string>
+    <string name="context_menu_default_ringtone">Ορισμός ως προεπιλεγμένος ήχος κλήσης</string>
+    <string name="context_menu_contact">Αντιστοίχιση σε επαφή</string>
+    <string name="context_menu_default_notification">Ορισμός ως προεπιλεγμένη ειδοποίηση</string>
+    <string name="context_menu_default_alarm">Ορισμός ως προεπιλεγμένο ξυπνητήρι</string>
+    <string name="file_save_title">Αποθήκευση ως:</string>
+    <string name="file_save_button_save">Αποθήκευση</string>
+    <string name="file_save_button_cancel">Άκυρο</string>
+    <string name="ringtone_type_label">Τύπος:</string>
+    <string name="type_music">Μουσική</string>
+    <string name="type_alarm">Ξυπνητήρι</string>
+    <string name="type_notification">Ειδοποίηση</string>
+    <string name="type_ringtone">Ήχος κλήσης</string>
+    <string name="ringtone_name_label">Όνομα:</string>
+    <string name="artist_name">Ringdroid</string>
+    <string name="delete_ringtone">Διαγραφή ήχου κλήσης</string>
+    <string name="delete_alarm">Διαγραφή ξυπνητηριού</string>
+    <string name="delete_notification">Διαγραφή ειδοποίησης</string>
+    <string name="delete_music">Διαγραφή μουσικής</string>
+    <string name="delete_audio">Διαγραφή ήχου</string>
+    <string name="confirm_delete_ringdroid">Είστε σίγουρος;</string>
+    <string name="confirm_delete_non_ringdroid">Είστε σίγουρος; Αυτό το αρχείο δεν δημιουργήθηκε χρησιμοποιώντας το Ringdroid!</string>
+    <string name="delete_ok_button">Διαγραφή</string>
+    <string name="delete_cancel_button">Άκυρο</string>
+    <string name="delete_failed">Δεν είναι δυνατή η διαγραφή του αρχείου</string>
+    <string name="file_exists">Το αρχείο δεν υπάρχει ή έχει διαγραφεί</string>
+    <string name="alert_title_success">Επιτυχία</string>
+    <string name="alert_title_failure">Σφάλμα</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_yes_button">Ναι, παρακαλώ!</string>
+    <string name="alert_no_button">Όχι, ευχαριστώ.</string>
+    <string name="save_success_message">Αποθηκεύτηκε!</string>
+    <string name="default_ringtone_success_message">Άλλαξε ο προεπιλεγμένος ήχος κλήσης</string>
+    <string name="default_notification_success_message">Άλλαξε ο προεπιλεγμένος ήχος ειδοποίησης</string>
+    <string name="default_alarm_success_message">Άλλαξε το προεπιλεγμένο ξυπνητήρι</string>
+    <string name="play_error">Δεν είναι δυνατή η αναπαραγωγή αυτού του αρχείου πολυμέσων</string>
+    <string name="no_unique_filename">Δεν μπορεί να βρεθεί το μοναδικό όνομα αρχείου</string>
+    <string name="delete_tmp_error">Σφάλμα κατά τη διαγραφή του προσωρινού αρχείου</string>
+    <string name="record_error">Σφάλμα έναρξης εγγραφής ήχου</string>
+    <string name="too_small_error">Δεν μπορεί να αποθηκευτεί ένα αρχείο τόσο μικρό, δοκιμάστε να το κάνετε μεγαλύτερο.</string>
+    <string name="write_error">Σφάλμα κατά την εγγραφή του αρχείου</string>
+    <string name="read_error">Σφάλμα κατά την ανάγνωση του αρχείου</string>
+    <string name="no_space_error">Η κάρτα SD σας είναι πλήρης, δεν υπάρχει αρκετός χώρος για να αποθηκεύσετε το αρχείο.</string>
+    <string name="bad_extension_error">Συγνώμη, το Ringdroid δεν είναι ακόμη σε θέση να επεξεργαστεί αρχεία του τύπου</string>
+    <string name="no_extension_error">Συγνώμη, το Ringdroid δεν μπορεί να επεξεργαστεί ένα αρχείο, εάν δεν έχει επέκταση, όπως. mp3 ή .wav</string>
+    <string name="choose_contact_title">Αντιστοίχιση ήχου κλήσης με ποιά επαφή;</string>
+    <string name="success_contact_ringtone">Επιτυχής αντιστοίχιση ήχου κλήσης σε:</string>
+    <string name="server_title">Μοιραστείτε τα δεδομένα σας!</string>
+    <string name="server_prompt">Συμφωνείτε να στείλετε ανώνυμα δεδομένα σχετικά με τους ήχους κλήσης και άλλους ήχους που δημιουργείτε στο Ringdroid.com ώστε να συλλέγουμε στατιστικά στοιχεία; Η πολιτική απορρήτου είναι στη διεύθυνση google.com/mobile/privacy.html</string>
+    <string name="server_yes">OK να στείλω</string>
+    <string name="server_later">Ρωτήστε αργότερα</string>
+    <string name="server_never">Ποτέ</string>
+    <string name="error_server_prompt">Συμφωνείτε να στείλετε ανώνυμα δεδομένα σχετικά με αυτό το σφάλμα στο Ringdroid.com ώστε να προσπαθήσουμε να διορθώσουμε αυτό το πρόβλημα στο μέλλον; Η πολιτική απορρήτου είναι στη διεύθυνση google.com/mobile/privacy.html</string>
+    <string name="about_title">Σχετικά με το Ringdroid</string>
+    <string name="about_text">"Χρησιμοποιήστε το Ringdroid για επεξεργασία MP3, WAV, AAC και AMR αρχείων ήχου και να δημιουργήσετε ήχους κλήσης, ξυπνητήρια και ειδοποιήσεις από αυτούς.
+
+Συμβουλή: αντιγράψτε τα αρχεία ήχου στην κάρτα SD σας, χρησιμοποιώντας ένα καλώδιο USB, ή βρείτε MP3 χρησιμοποιώντας την εφαρμογή Amazon MP3.
+
+Συμβουλή: παρατεταμένο πάτημα πάνω σε ένα αρχείο ήχου από την κύρια οθόνη για να το διαγράψετε. Περισσότερα παρακάτω ...
+
+Συμβουλή: πατήστε οπουδήποτε στην κυματομορφή για να αρχίσεη η αναπαραγωγή σε αυτή τη θέση.
+
+Συμβουλή: ενώ παίζει, πατήστε τη λέξη Έναρξη ή Τέλος για να ορίσετε γρήγορα τους δείκτες αρχής και τέλους για τον τρέχοντα χρόνο αναπαραγωγής.
+
+Συμβουλή: Χρησιμοποιήστε τον τροχό jog για πιο ακριβείς ρυθμίσεις.
+
+Version 2.3
+
+Προγραμματιστής: Dominic Mazzoni
+Γραφικά: Joseph Wain
+Υποστήριξη και ευαγγελιζμός: Eugene Koh
+Βελτιώσεις: Dan Klufas
+
+Το Ringdroid είναι ελεύθερο λογισμικό, που διανέμεται υπό την άδεια Apache 2.0. Ο πηγαίος κώδικας είναι στο code.google.com
+"</string>
+    <string name="menu_manager_list">Διαχείριση λίστας</string>
+    <string name="set_as_start">Ορισμός ως Έναρξη</string>
+    <string name="set_as_end">Ορισμός ως Τέλος</string>
+    <string name="set_as">Ορισμός ως</string>
+    <string name="start_time">Έναρξη</string>
+    <string name="end_time">Τέλος</string>
+    <string name="init_time">00:00</string>
+    <string name="noContactsHelpText">"Δεν έχετε έναν προσαρμοσμένο ήχο κλήσης.
+
+Για να περικόψετε τον ήχο κλήσης, μεταβείτε στη"<b><font fgcolor="#ff000000"><li> μουσική, τα αρχεία μουσικής που θέλετε για κλιπ, κάντε κλικ στο <b><font fgcolor="#ff000000">μενού</font></b>"，μετά αγγίξτε:
+ 
+"<b><font fgcolor="#ff000000"><li>"Χρησιμοποιήστε ως ήχο κλήσης Επιλέξτε τον ήχο κλήσης Αποκοπή, συνδετήρας ήχου κλήσης στη διεπαφή
+"</li></font></b>" 
+"<b><font fgcolor="#ff000000"><li>"Αποθηκεύτηκε από την παραγωγή του τόνου
+"</li></font></b>" 
+"<b><font fgcolor="#ff000000"><li>"διαχείριση μενού-λίστα διαχειριστείτε τους δικούς σας προσαρμοσμένους ήχους κλήσης
+"</li></font></b></li></font></b></string>
+</resources>
