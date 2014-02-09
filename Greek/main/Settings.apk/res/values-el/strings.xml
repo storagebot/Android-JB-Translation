@@ -1648,7 +1648,7 @@
     <string name="user_dict_settings_edit_dialog_title">Επεξεργασία λέξης</string>
     <string name="user_dict_settings_context_menu_edit_title">Επεξεργασία</string>
     <string name="user_dict_settings_context_menu_delete_title">Διαγραφή</string>
-    <string name="user_dict_settings_empty_text">Δεν υπάρχουν λέξεις καταχωρισμένες στο λεξικό χρήστη. Προσθέστε μια λέξη πατώντας το κουμπί Προσθήκη ( + ).</string>
+    <string name="user_dict_settings_empty_text">Δεν υπάρχουν λέξεις καταχωρημένες στο λεξικό χρήστη. Προσθέστε μια λέξη πατώντας το κουμπί Προσθήκη ( + ).</string>
     <string name="user_dict_settings_all_languages">Για όλες τις γλώσσες</string>
     <string name="user_dict_settings_more_languages">Περισσότερες γλώσσες...</string>
     <string name="testing">Δοκιμή</string>
