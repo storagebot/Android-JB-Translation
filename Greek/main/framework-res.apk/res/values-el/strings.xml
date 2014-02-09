@@ -658,8 +658,8 @@
     <string name="policydesc_expirePassword">Έλεγχος της συχνότητας αλλαγής του κωδικού πρόσβασης κλειδώματος οθόνης.</string>
     <string name="policylab_encryptedStorage">Ορισμός κρυπτογρ. αποθ. χώρου</string>
     <string name="policydesc_encryptedStorage">Να απαιτείται η κρυπτογράφηση των αποθηκευμένων δεδομένων εφαρμογής</string>
-    <string name="policylab_disableCamera">Απενεργοποίηση φωτογρ. μηχανών</string>
-    <string name="policydesc_disableCamera">Να αποτρέπεται η χρήση των φωτογραφικών μηχανών της συσκευής.</string>
+    <string name="policylab_disableCamera">Απενεργοποίηση κάμερας</string>
+    <string name="policydesc_disableCamera">Να αποτρέπεται η χρήση κάμερας της συσκευής.</string>
     <string name="policylab_disableKeyguardFeatures">Απενεργοποίηση λειτουργιών στο κλείδωμα πληκτρολογίου</string>
     <string name="policydesc_disableKeyguardFeatures">Αποφυγή της χρήσης ορισμένων λειτουργιών στο κλείδωμα πληκτρολογίου.</string>
     <string name="phoneTypeCustom">Προσαρμοσμένο</string>

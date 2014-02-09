@@ -39,7 +39,7 @@
     <string name="vt_peer_video_quality">Ποιότητα ομότιμου βίντεο</string>
     <string name="vt_pic_replace_local">Εικόνα για αντικατάσταση τοπικού βίντεο</string>
     <string name="vt_enable_back_camera">Ενεργοποίηση πίσω κάμερας</string>
-    <string name="vt_enable_back_camera_description">Διαθέσιμο για εναλλαγή φωτογραφικών μηχανών όταν είναι ενεργοποιημένο</string>
+    <string name="vt_enable_back_camera_description">Διαθέσιμο για εναλλαγή κάμερας όταν είναι ενεργοποιημένο</string>
     <string name="vt_peer_video_bigger">Το ομότιμο βίντεο είναι μεγαλύτερο από το τοπικό βίντεο</string>
     <string name="vt_peer_video_bigger_description">Ενεργοποίηση για να γίνει το ομότιμο βίντεο μεγαλύτερο από το τοπικό βίντεο</string>
     <string name="vt_outgoing_call">Εξερχόμενη κλήση βίντεο</string>

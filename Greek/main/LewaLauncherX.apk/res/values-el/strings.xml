@@ -6,7 +6,7 @@
     <string name="uid_name">Βασικές εφαρμογές Android</string>
     <string name="folder_name">Φάκελος</string>
     <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
-    <string name="wallpaper_instructions">Ρύθμιση ταπετσαρίας</string>
+    <string name="wallpaper_instructions">Ορισμός ταπετσαρίας</string>
     <string name="pick_wallpaper">Ταπετσαρίες</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί.</string>
     <string name="widgets_tab_label">Γραφικά στοιχεία</string>

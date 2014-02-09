@@ -1838,7 +1838,7 @@
     <string name="menu_stats_total">Συνολικές τιμές χρήσης</string>
     <string name="menu_stats_refresh">Ανανέωση</string>
     <string name="process_kernel_label">Λειτουργικό σύστημα Android</string>
-    <string name="process_mediaserver_label">Mediaserver</string>
+    <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
     <string name="voice_input_output_settings">Φωνητική είσοδος/έξοδος</string>
     <string name="voice_input_output_settings_title">Ρυθμίσεις φωνητικής εισόδου και εξόδου</string>
     <string name="voice_search_settings_title">Φωνητική αναζήτηση</string>
@@ -1875,7 +1875,7 @@
     <string name="tts_engine_name_is_enabled_summary">Η επιλογή %s είναι ενεργοποιημένη</string>
     <string name="tts_engine_name_is_disabled_summary">Η επιλογή %s είναι απενεργοποιημένη</string>
     <string name="tts_engine_settings_section">Ρυθμίσεις μηχανής</string>
-    <string name="tts_engine_settings_title">Ρυθμίσεις για τη μηχανή %s</string>
+    <string name="tts_engine_settings_title">Ρυθμίσεις για τη %s</string>
     <string name="pico_languages_and_voices">Γλώσσες και φωνές</string>
     <string name="pico_installed">Εγκατεστημένο</string>
     <string name="pico_not_installed">Δεν έχει εγκατασταθεί</string>
