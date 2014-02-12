@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Σουίτα διεργασιών MTK Android</string>
-    <string name="noti_main_service_started">Η σουίτα διεργασιών MTK Android ξεκίνησε.</string>
-    <string name="noti_main_service_running">Η σουίτα διεργασιών MTK Android εκτελείται.</string>
-    <string name="noti_main_service_stopped">Η σουίτα διεργασιών MTK Android σταμάτησε.</string>
-</resources>
