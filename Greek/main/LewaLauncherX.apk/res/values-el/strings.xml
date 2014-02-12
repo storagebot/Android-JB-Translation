@@ -32,13 +32,13 @@
     <string name="title_select_application">Επιλογή εφαρμογής</string>
     <string name="all_apps_button_label">Εφαρμογές</string>
     <string name="all_apps_home_button_label">Αρχική σελίδα</string>
-    <string name="delete_target_label">Αφαίρεση</string>
-    <string name="uninstall_target_label">Απεγκατάσταση</string>
+    <string name="delete_target_label">Κατάργηση</string>
+    <string name="uninstall_target_label">Κατάργηση εγκατάστασης</string>
     <string name="accessibility_search_button">Αναζήτηση</string>
     <string name="accessibility_voice_search_button">Φωνητική αναζήτηση</string>
     <string name="accessibility_all_apps_button">Εφαρμογές</string>
-    <string name="accessibility_delete_button">Αφαίρεση</string>
-    <string name="delete_zone_label_all_apps_system_app">Απεγκατάσταση ενημέρωσης</string>
+    <string name="accessibility_delete_button">Κατάργηση</string>
+    <string name="delete_zone_label_all_apps_system_app">Κατάργηση εγκατάστασης ενημέρωσης</string>
     <string name="menu_add">Προσθήκη</string>
     <string name="menu_manage_apps">Διαχείριση εφαρμογών</string>
     <string name="menu_wallpaper">Ταπετσαρία</string>
@@ -47,7 +47,7 @@
     <string name="menu_settings">Ρυθμίσεις συστήματος</string>
     <string name="menu_help">Βοήθεια</string>
     <string name="help_url" />
-    <string name="cab_menu_delete_app">Απεγκατάσταση εφαρμογής</string>
+    <string name="cab_menu_delete_app">Κατάργηση εγκατάστασης εφαρμογής</string>
     <string name="cab_menu_app_info">Λεπτομέρειες εφαρμογής</string>
     <string name="cab_app_selection_text">1 εφαρμογή επιλέχτηκε</string>
     <string name="cab_widget_selection_text">1 γραφικό στοιχείο επιλέχτηκε</string>
@@ -55,7 +55,7 @@
     <string name="cab_shortcut_selection_text">1 συντόμευση επιλέχτηκε</string>
     <string name="permlab_install_shortcut">εγκατάσταση συντομεύσεων</string>
     <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
-    <string name="permlab_uninstall_shortcut">απεγκατάσταση συντομεύσεων</string>
+    <string name="permlab_uninstall_shortcut">κατάργηση εγκατάστασης συντομεύσεων</string>
     <string name="permdesc_uninstall_shortcut">Επιτρέπει σε μια εφαρμογή την κατάργηση συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
     <string name="permlab_read_settings">ανάγνωση ρυθμίσεων και συντομεύσεων Αρχικής οθόνης</string>
     <string name="permdesc_read_settings">Επιτρέπει στην εφαρμογή την ανάγνωση των ρυθμίσεων και των συντομεύσεων στην Αρχική οθόνη.</string>
@@ -106,7 +106,7 @@
     <string name="shortcut_mms">Μηνύματα</string>
     <string name="open_drawer_tip">Σύρετε πάνω για γρήγορη κίνηση σχεδιαστή ανοίγματος.</string>
     <string name="not_supported_type">Ο τύπος δεν υποστηρίζεται.</string>
-    <string name="uninstall_system_app_text">Η εφαρμογή συστήματος δεν μπορεί να απεγκατασταθεί.</string>
+    <string name="uninstall_system_app_text">Η εφαρμογή συστήματος δεν μπορεί να καταργηθεί.</string>
     <string name="cannot_delete_widget_text">Το γραφικό στοιχείο δεν μπορεί να διαγραφεί.</string>
     <string name="system_tool_folder">Εργαλεία</string>
     <string name="game_folder">Παιχνίδι</string>
