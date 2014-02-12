@@ -2086,7 +2086,7 @@
     <string name="show_cpu_usage_summary">Επικάλυψη οθόνης για εμφάνιση τρέχουσας χρήσης CPU</string>
     <string name="force_hw_ui">Αναγκαστική απόδοση GPU</string>
     <string name="force_hw_ui_summary">Αναγκαστική χρήση του GPU για σχέδιο 2D</string>
-    <string name="force_msaa">Αναγκαστικά 4x MSAA</string>
+    <string name="force_msaa">Αναγκαστικό 4x MSAA</string>
     <string name="force_msaa_summary">Ενεργοποίηση 4x MSAA σε εφαρμογές OpenGL ES 2.0</string>
     <string name="track_frame_time">Απόδοση GPU προφίλ</string>
     <string name="track_frame_time_summary">Μέτρηση χρόνου απόδοσης σε adb shell dumpsys gfxinfo</string>
@@ -2095,7 +2095,7 @@
     <string name="animator_duration_scale_title">Κλίμακα διάρκειας κίνησης</string>
     <string name="overlay_display_devices_title">Προσομοίωση δεύτερων οθονών</string>
     <string name="debug_applications_category">Εφαρμογές</string>
-    <string name="immediately_destroy_activities">Μη διατήρηση δραστηριοτήτων</string>
+    <string name="immediately_destroy_activities">Χωρίς διατήρηση δραστηριοτήτων</string>
     <string name="immediately_destroy_activities_summary">Διαγραφή κάθε δραστηριότητας μετά τον τερματισμό</string>
     <string name="app_process_limit_title">Όριο διεργασιών παρασκηνίου</string>
     <string name="show_all_anrs">Εμφάνιση όλων των ANR</string>
