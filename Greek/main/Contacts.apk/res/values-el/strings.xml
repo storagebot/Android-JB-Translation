@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_import_vcard_type">προεπιλογή</string>
-    <string name="config_export_vcard_type">προεπιλογή</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp" />
-    <string name="help_url_people_main" />
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
     <string name="menu_print">Εκτύπωση</string>
     <string name="printContact">Εκτύπωση επαφής μέσω</string>
     <string name="no_way_to_print">Δεν υπάρχει διαθέσιμη εφαρμογή για την εκτύπωση της επαφής.</string>
