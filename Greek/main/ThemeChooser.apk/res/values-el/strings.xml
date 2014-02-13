@@ -21,7 +21,7 @@
     <string name="dialog_theme_error_title">Σφάλμα θέματος</string>
     <string name="dialog_missing_host_density_msg">Συγγνώμη, από αυτό το θέμα λείπουν στοιχεία υποστήριξης για το μέγεθος της οθόνης της συσκευής σας.</string>
     <string name="dialog_missing_theme_package_scope_msg">Αυτό το θέμα δεν καταρτίστηκε σωστά και δεν μπορεί να εφαρμοστεί. Παρακαλώ αναφέρετε το περιστατικό στον δημιουργό του θέματος.</string>
-    <string name="dialog_apply_anyway_btn">Εφαρμογή οπωσδήποτε</string>
+    <string name="dialog_apply_anyway_btn">"Εφαρμογή όπως και να 'χει"</string>
     <string name="dialog_bummer_btn">Ατυχία</string>
     <string name="theme_delete">Είστε βέβαιοι για να διαγράψετε το θέμα;</string>
     <string name="theme_delete_title">Διαγραφή θέματος</string>
