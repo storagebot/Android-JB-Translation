@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_workspaceDefaultTransitionEffect">Τυπικό</string>
-    <string name="config_defaultScreenLayout">4|4</string>
     <string name="application_name">Εκκινητής JIAYU</string>
     <string name="uid_name">Βασικές εφαρμογές Android</string>
     <string name="folder_name">Φάκελος</string>
