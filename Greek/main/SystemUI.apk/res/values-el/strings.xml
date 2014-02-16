@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="abbrev_wday_month_day_no_year">@android:string/abbrev_wday_month_day_no_year</string>
     <string name="gemini_default_sim_always_ask">Πάντα ερώτηση</string>
     <string name="accessibility_phone_four_bars">Τέσσερις γραμμές τηλεφώνου.</string>
     <string name="sim_switch_tip">Αυτή η SIM είχε οριστεί ως η προεπιλεγμένη κάρτα SIM για το %s. Κρατήστε και σύρετε προς τα κάτω τη Γραμμή κατάστασης για αλλαγή της προεπιλεγμένης κάρτας SIM.</string>
@@ -25,7 +22,7 @@
     <string name="data_connection_attach_timeout_error_msg">Η σύνδεση δεδομένων απέτυχε ή σήμερα το δίκτυο είναι απασχολημένο.</string>
     <string name="data_connection_dettach_timeout_error_msg">Η αποδέσμευση της σύνδεσης δεδομένων απέτυχε.</string>
     <string name="data_connection_connected">[%s] Η σύνδεση δεδομένων κάρτας SIM έχει ενεργοποιηθεί</string>
-    <string name="gemini_intenet_call">Κλήση Internet</string>
+    <string name="gemini_intenet_call">Κλήση διαδικτύου</string>
     <string name="gemini_default_sim_never">Ανενεργό</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_3g_disable_warning">Η υπηρεσία 3G δεν είναι διαθέσιμη με την επιλεγμένη SIM. Ενδέχεται να προκαλείται καθυστέρηση φόρτωσης δεδομένων. Μπορείτε να αλλάξετε τη ρύθμιση υπηρεσίας 3G στην περιοχή Ρυθμίσεις > Ασύρματο και δίκτυα > Δίκτυα κινητής τηλεφωνίας.</string>
@@ -220,7 +217,7 @@
     <string name="quick_settings_rotation_locked_label">Η περιστροφή είναι κλειδωμένη</string>
     <string name="quick_settings_ime_label">Μέθοδος εισαγωγής</string>
     <string name="quick_settings_location_label">Τοποθεσία σε χρήση</string>
-    <string name="quick_settings_media_device_label">Συσκευή μέσων</string>
+    <string name="quick_settings_media_device_label">Συσκευή πολυμέσων</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Μόνο κλήσεις έκτακτης ανάγκης</string>
     <string name="quick_settings_settings_label">Ρυθμίσεις</string>
@@ -237,5 +234,5 @@
     <string name="status_bar_help_title">Οι ειδοποιήσεις εμφανίζονται εδώ</string>
     <string name="status_bar_help_text">"Μεταβείτε σε αυτές ανά πάσα στιγμή σύροντας προς τα κάτω.
 Σύρετε ξανά προς τα κάτω για τα στοιχεία ελέγχου συστήματος."</string>
-    <string name="gprs_connect_alert">Αυτή η συσκευή είναι παρόμοια με έναν υπολογιστή, πολλές λειτουργίες θα πρέπει να πραγματοποιούνται μέσω πρόσβασης στο Internet, η οποία δημιουργεί κόστος ορισμένων δεδομένων κίνησης, όπως: ενημερώσεις του λογισμικού, μετεωρολογικές προβλέψεις, e-mail, chatting εγκατεστημένο λογισμικό ή η online διαφήμιση σε άλλο ελεύθερο λογισμικό, κλπ. Ως εκ τούτου, συνιστάται ότι πριν από τη χρήση αυτής της συσκευής, μπορείτε να υποβάλετε αίτηση για ένα οικονομικό πακέτο υπηρεσιών ροής δεδομένων από τους τοπικούς φορείς. Και να θυμάστε να διακόψετε τη σύνδεση δεδομένων μετά από κάθε χρήση για να αποφευχθούν οι περιττές δαπάνες</string>
+    <string name="gprs_connect_alert">Αυτή η συσκευή είναι παρόμοια με έναν υπολογιστή, πολλές λειτουργίες θα πρέπει να πραγματοποιούνται μέσω πρόσβασης στο διαδίκτυο, η οποία δημιουργεί κόστος ορισμένων δεδομένων κίνησης, όπως: ενημερώσεις του λογισμικού, μετεωρολογικές προβλέψεις, e-mail, chatting εγκατεστημένο λογισμικό ή η online διαφήμιση σε άλλο ελεύθερο λογισμικό, κλπ. Ως εκ τούτου, συνιστάται ότι πριν από τη χρήση αυτής της συσκευής, μπορείτε να υποβάλετε αίτηση για ένα οικονομικό πακέτο υπηρεσιών ροής δεδομένων από τους τοπικούς φορείς. Και να θυμάστε να διακόψετε τη σύνδεση δεδομένων μετά από κάθε χρήση για να αποφευχθούν οι περιττές δαπάνες</string>
 </resources>
