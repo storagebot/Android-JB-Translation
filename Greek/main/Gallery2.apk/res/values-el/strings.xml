@@ -77,8 +77,8 @@
     <string name="pref_camera_selftimer_entry_10">10 δευτερόλεπτα</string>
     <string name="pref_camera_focusmode_entry_continuous">συνεχής</string>
     <string name="pref_camera_capturemode_entry_asd">Αυτόματη ανίχνευση σκηνής</string>
-    <string name="pref_camera_antibanding_title">Αντιτρεμόπαιγμα</string>
-    <string name="pref_camera_antibanding_entry_auto">Αυτόματα</string>
+    <string name="pref_camera_antibanding_title">Σταθεροποίηση</string>
+    <string name="pref_camera_antibanding_entry_auto">Αυτόματο</string>
     <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
     <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
     <string name="pref_camera_scenemode_entry_portrait">Κατακόρυφος προσανατολισμός</string>
@@ -123,7 +123,7 @@
     <string name="pref_camera_face_detect_title">Εντοπ. προσώπου</string>
     <string name="pref_camera_face_detect_entry_off">Απενεργοποιημένο</string>
     <string name="pref_camera_face_detect_entry_on">Ενεργοποιημένο</string>
-    <string name="pref_camera_record_location_title">Πληρ. GPS</string>
+    <string name="pref_camera_record_location_title">Πληροφ. GPS</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1000">1 δευτερόλεπτο</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1500">1.5 δευτερόλεπτα</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2000">2 δευτερόλεπτα</string>
