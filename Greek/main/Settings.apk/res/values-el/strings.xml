@@ -144,7 +144,7 @@
     <string name="audio_profile_category_custom_title">Προφίλ καθορισμένα από το χρήστη</string>
     <string name="audio_profile_category_predefine_title">Προκαθορισμένα προφίλ</string>
     <string name="general_settings_title">Γενικά</string>
-    <string name="silent_settings_title">Αθόρυβο</string>
+    <string name="silent_settings_title">Σίγαση</string>
     <string name="meeting_settings_title">Συνάντηση</string>
     <string name="outdoor_settings_title">Υπαίθριο</string>
     <string name="apn_predefine_change_dialog_notice">Είστε βέβαιοι ότι θέλετε να κάνετε αποθήκευση; Οι τροποποιήσεις στα προεπιλεγμένα APN ενδέχεται να προκαλέσουν προβλήματα σύνδεσης!</string>
@@ -868,7 +868,7 @@
     <string name="bluetooth_profile_hid">Συσκευή εισόδου</string>
     <string name="bluetooth_profile_pan">Πρόσβαση στο Διαδίκτυο</string>
     <string name="bluetooth_profile_pan_nap">Κοινή χρήση σύνδεσης στο Διαδίκτυο</string>
-    <string name="bluetooth_disconnect_a2dp_profile">Η συσκευή %1$s θα αποσυνδεθεί από τον ήχο μέσων.</string>
+    <string name="bluetooth_disconnect_a2dp_profile">Η συσκευή %1$s θα αποσυνδεθεί από τον ήχο πολυμέσων.</string>
     <string name="bluetooth_disconnect_headset_profile">Η συσκευή %1$s θα αποσυνδεθεί από τον ήχο handsfree.</string>
     <string name="bluetooth_disconnect_hid_profile">Η συσκευή %1$s θα αποσυνδεθεί από τη συσκευή εισόδου.</string>
     <string name="bluetooth_disconnect_pan_user_profile">Θα γίνει αποσύνδεση της πρόσβασης στο Διαδίκτυο μέσω του %1$s</string>
@@ -1134,7 +1134,7 @@
     <string name="volume_notification_description">Ειδοποιήσεις</string>
     <string name="volume_alarm_description">Ξυπνητήρια</string>
     <string name="volume_ring_mute">Σίγαση ήχου κλήσης &amp; ειδοποιήσεων</string>
-    <string name="volume_media_mute">Σίγαση μουσικής &amp; άλλων μέσων</string>
+    <string name="volume_media_mute">Σίγαση μουσικής &amp; άλλων πολυμέσων</string>
     <string name="volume_notification_mute">Σίγαση ειδοποιήσεων</string>
     <string name="volume_alarm_mute">Σίγαση ειδοποιήσεων</string>
     <string name="vibrate_when_ringing_title">Δόνηση κατά το κουδούνισμα</string>
@@ -1243,7 +1243,7 @@
     <string name="memory_available_read_only">Διαθέσιμος (μόνος για ανάγνωση)</string>
     <string name="memory_size">Συνολικός χώρος</string>
     <string name="memory_calculating_size">Υπολογισμός...</string>
-    <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών και περιεχόμενο μέσων)</string>
+    <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών και περιεχόμενο πολυμέσων)</string>
     <string name="memory_media_usage">Μέσα</string>
     <string name="memory_downloads_usage">Λήψεις</string>
     <string name="memory_dcim_usage">Εικόνες, βίντεο</string>
@@ -1268,7 +1268,7 @@
     <string name="sd_ejecting_title">Αποπροσάρτηση</string>
     <string name="sd_ejecting_summary">Αποπροσάρτηση σε εξέλιξη</string>
     <string name="storage_low_title">Ο χώρος αποθήκευσης εξαντλείται</string>
-    <string name="storage_low_summary">Ορισμένες λειτουργίες συστήματος, όπως ο συγχρονισμός ενδέχεται να μην λειτουργούν σωστά. Δοκιμάστε να αποδεσμεύσετε χώρο διαγράφοντας ή ξεκαρφιτσώνοντας στοιχεία, όπως εφαρμογές ή περιεχόμενο μέσων.</string>
+    <string name="storage_low_summary">Ορισμένες λειτουργίες συστήματος, όπως ο συγχρονισμός ενδέχεται να μην λειτουργούν σωστά. Δοκιμάστε να αποδεσμεύσετε χώρο διαγράφοντας ή ξεκαρφιτσώνοντας στοιχεία, όπως εφαρμογές ή περιεχόμενο πολυμέσων.</string>
     <string name="storage_menu_usb">Σύνδεση υπολογιστή μέσω USB</string>
     <string name="storage_title_usb">Σύνδεση υπολογιστή μέσω USB</string>
     <string name="usb_connection_category">Σύνδεση ως</string>
