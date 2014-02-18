@@ -126,9 +126,9 @@
     <string name="epo_warning_dialog_message">Η λήψη δεδομένων EPO σε κατάσταση περιαγωγής ενδέχεται να προκαλέσει πρόσθετες χρεώσεις. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
     <string name="ring_summary">Ήχος κλήσης</string>
     <string name="ring_vibrate_summary">Ήχος κλήσης και δόνηση</string>
-    <string name="silent_summary">Μόνο σίγαση</string>
+    <string name="silent_summary">Μόνο αθόρυβο</string>
     <string name="meeting_summary">Μόνο δόνηση</string>
-    <string name="outdoor_summary">Ο πιο δυνατός ήχος κλήσης και δόνηση</string>
+    <string name="outdoor_summary">Δυνατός ήχος κλήσης και δόνηση</string>
     <string name="audio_profile_reset">Επαναφορά</string>
     <string name="audio_profile_add">Προσθήκη</string>
     <string name="audio_profile_enable">Ενεργοποίηση</string>
@@ -144,7 +144,7 @@
     <string name="audio_profile_category_custom_title">Προφίλ καθορισμένα από το χρήστη</string>
     <string name="audio_profile_category_predefine_title">Προκαθορισμένα προφίλ</string>
     <string name="general_settings_title">Γενικά</string>
-    <string name="silent_settings_title">Σίγαση</string>
+    <string name="silent_settings_title">Αθόρυβο</string>
     <string name="meeting_settings_title">Συνάντηση</string>
     <string name="outdoor_settings_title">Υπαίθριο</string>
     <string name="apn_predefine_change_dialog_notice">Είστε βέβαιοι ότι θέλετε να κάνετε αποθήκευση; Οι τροποποιήσεις στα προεπιλεγμένα APN ενδέχεται να προκαλέσουν προβλήματα σύνδεσης!</string>
