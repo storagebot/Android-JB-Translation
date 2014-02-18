@@ -1123,7 +1123,7 @@
     <string name="submit">Υποβολή</string>
     <string name="car_mode_disable_notification_title">Η λειτουργία αυτοκινήτου είναι ενεργοποιημένη</string>
     <string name="car_mode_disable_notification_message">Αγγίξτε για έξοδο από τη λειτουργία αυτοκινήτου.</string>
-    <string name="tethered_notification_title">Πρόσδεση ή σύνδεση σημείου πρόσβασης ενεργή</string>
+    <string name="tethered_notification_title">Σύζευξη ή σύνδεση σημείου πρόσβασης ενεργή</string>
     <string name="tethered_notification_message">Αγγίξτε για ρύθμιση.</string>
     <string name="back_button_label">Πίσω</string>
     <string name="next_button_label">Επόμενο</string>

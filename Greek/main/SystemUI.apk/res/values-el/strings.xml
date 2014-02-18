@@ -150,7 +150,7 @@
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Δεν υπάρχει SIM.</string>
-    <string name="accessibility_bluetooth_tether">Πρόσδεση Bluetooth</string>
+    <string name="accessibility_bluetooth_tether">Σύζευξη Bluetooth</string>
     <string name="accessibility_airplane_mode">Λειτουργία πτήσης.</string>
     <string name="accessibility_battery_level">Μπαταρία %d τοις εκατό.</string>
     <string name="accessibility_settings_button">Ρυθμίσεις συστήματος.</string>
