@@ -9,7 +9,7 @@
     <string name="application">Όλες οι εφαρμογές</string>
     <string name="sort_memory">Ταξινόμηση κατά μνήμη</string>
     <string name="sort_title">Ταξινόμηση κατά τίτλο</string>
-    <string name="advanced">Προηγμένες</string>
+    <string name="advanced">Αναλυτικά</string>
     <string name="refreshOn">Ανανεώνεται....</string>
     <string name="alter">Ειδοποίηση</string>
     <string name="killall_alter">Σίγουρα να διακοπούν όλα;</string>
@@ -23,6 +23,6 @@
     <string name="not_prompt">Χωρίς ειδοποίηση</string>
     <string name="switch_to">Μετάβαση στην εφαρμογή</string>
     <string name="auto_clear">Αυτόματη εκκαθάριση μνήμης</string>
-    <string name="clean_finish">Η εκκαθάριση τελείωσε</string>
+    <string name="clean_finish">Η εκκαθάριση ολοκληρώθηκε</string>
     <string name="auto_appname">Αυτόματη εκκαθάριση</string>
 </resources>
