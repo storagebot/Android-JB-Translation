@@ -6,7 +6,7 @@
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="bluetooth_advanced_settings">Σύνθετες ρυθμίσεις</string>
+    <string name="bluetooth_advanced_settings">Προηγμένες ρυθμίσεις</string>
     <string name="bluetooth_profile_ftp">Μεταφορά αρχείου</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Χρήση για μεταφορά αρχείου</string>
     <string name="bluetooth_ftp_profile_summary_connected">Πραγματοποιήθηκε σύνδεση με τη μεταφορά αρχείων</string>
@@ -858,7 +858,7 @@
     <string name="bluetooth_device_context_unpair">Διακοπή σύζευξης</string>
     <string name="bluetooth_device_context_disconnect_unpair">Αποσύνδεση &amp; διακοπή σύζευξης</string>
     <string name="bluetooth_device_context_connect_advanced">Επιλογές...</string>
-    <string name="bluetooth_menu_advanced">Για προχωρημένους</string>
+    <string name="bluetooth_menu_advanced">Προηγμένα</string>
     <string name="bluetooth_advanced_titlebar">Προηγμένες ρυθμίσεις Bluetooth</string>
     <string name="bluetooth_empty_list_bluetooth_off">Για να δείτε τις συσκευές, ενεργοποιήστε το Bluetooth.</string>
     <string name="bluetooth_connect_specific_profiles_title">Σύνδεση σε...</string>
@@ -956,7 +956,7 @@
     <string name="wifi_menu_wps_pin">Εισαγωγή κωδικού Pin WPS</string>
     <string name="wifi_menu_p2p">Απευθείας Wi-Fi</string>
     <string name="wifi_menu_scan">Σάρωση</string>
-    <string name="wifi_menu_advanced">Σύνθετα</string>
+    <string name="wifi_menu_advanced">Προηγμένα</string>
     <string name="wifi_menu_connect">Σύνδεση στο δίκτυο</string>
     <string name="wifi_menu_forget">Διαγραφή δικτύου από τη μνήμη</string>
     <string name="wifi_menu_modify">Τροποποίηση δικτύου</string>
@@ -966,7 +966,7 @@
     <string name="wifi_more">Περισσότερα</string>
     <string name="wifi_setup_wps">Αυτόματη ρύθμιση (WPS)</string>
     <string name="wifi_required_info_text">Για να ολοκληρώσετε τη ρύθμιση, το tablet σας χρειάζεται πρόσβαση σε δίκτυο Wi-Fi. Μετά τη ρύθμιση, μπορείτε να κάνετε εναλλαγή μεταξύ δεδομένων κινητής τηλεφωνίας και δικτύου Wi-Fi.</string>
-    <string name="wifi_show_advanced">Εμφάνιση σύνθετων επιλογών</string>
+    <string name="wifi_show_advanced">Εμφάνιση προηγμένων επιλογών</string>
     <string name="wifi_wps_setup_title">Ρύθμιση προστατευόμενου Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Έναρξη WPS...</string>
     <string name="wifi_wps_onstart_pbc">Πατήστε ο κουμπί ρύθμισης προστατευόμενου Wi-Fi στον δρομολογητή σας. Ενδέχεται να ονομάζεται \"WPS\" ή να περιέχει αυτό το σύμβολο:</string>
@@ -1033,7 +1033,7 @@
 Η ρύθμιση του τηλεφώνου μπορεί να προκαλέσει μεγάλη δραστηριότητα δικτύου."</string>
     <string name="wifi_and_mobile_skipped_message">ΠΡΟΕΙΔΟΠΟΙΗΣΗ: το τηλέφωνο δεν θα είναι σε θέση να επαληθεύσει ότι το λογισμικό σας είναι ενημερωμένο.</string>
     <string name="wifi_connect_failed_message">Δεν ήταν δυνατή η σύνδεση του τηλεφώνου σε αυτό το δίκτυο Wi-Fi.</string>
-    <string name="wifi_advanced_titlebar">Σύνθετο Wi-Fi</string>
+    <string name="wifi_advanced_titlebar">Προηγμένο Wi-Fi</string>
     <string name="wifi_setting_frequency_band_title">Ζώνη συχνοτήτων Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Προσδιορίστε το εύρος συχνότητας της λειτουργίας</string>
     <string name="wifi_setting_frequency_band_error">Πρόβλημα κατά τη ρύθμιση της ζώνης συχνότητας.</string>
@@ -1159,7 +1159,7 @@
     <string name="accelerometer_summary_off">Αυτόματη εναλλαγή προσανατολισμού κατά την περιστροφή του τηλεφώνου</string>
     <string name="brightness">Φωτεινότητα</string>
     <string name="brightness_summary">Ρύθμιση της φωτεινότητας της οθόνης</string>
-    <string name="screen_timeout">Σβήσιμο οθόνης</string>
+    <string name="screen_timeout">Αναστολή λειτουργίας</string>
     <string name="screen_timeout_summary">Μετά από %1$s αδράνειας</string>
     <string name="wallpaper_settings_title">Ταπετσαρία</string>
     <string name="wallpaper_settings_fragment_title">Επιλογή ταπετσαρίας από</string>
@@ -1464,8 +1464,8 @@
     <string name="install_all_warning">Το τηλέφωνό σας και τα προσωπικά δεδομένα σας είναι ευάλωτα σε επιθέσεις από εφαρμογές που προέρχονται από άγνωστες πηγές. Συμφωνείτε ότι είστε οι μοναδικοί υπεύθυνοι για κάθε ζημιά στο τηλέφωνο ή για απώλεια δεδομένων που ενδέχεται να προκύψουν από τη χρήση τέτοιων εφαρμογών.</string>
     <string name="verify_applications">Επαλήθευση εφαρμογών</string>
     <string name="verify_applications_summary">Να μην επιτρέπεται ή να γίνεται προειδοποίηση πριν από την εγκατάσταση εφαρμογών που μπορεί να είναι επικίνδυνες</string>
-    <string name="advanced_settings">Σύνθετες ρυθμίσεις</string>
-    <string name="advanced_settings_summary">Ενεργοποίηση περισσότερων επιλογών ρυθμίσεων</string>
+    <string name="advanced_settings">Προηγμένες ρυθμίσεις</string>
+    <string name="advanced_settings_summary">Ενεργοποίηση προηγμένων επιλογών ρυθμίσεων</string>
     <string name="application_info_label">Πληροφορίες εφαρμογής</string>
     <string name="storage_label">Αποθηκευτικός χώρος</string>
     <string name="auto_launch_label">Εκκίνηση από προεπιλογή</string>
@@ -2187,7 +2187,7 @@
     <string name="vpn_ipsec_user_cert">Πιστοποιητικό χρήστη IPSec</string>
     <string name="vpn_ipsec_ca_cert">Πιστοποιητικό CA IPSec</string>
     <string name="vpn_ipsec_server_cert">Πιστοποιητικό διακομιστή IPSec</string>
-    <string name="vpn_show_options">Εμφάνιση σύνθετων επιλογών</string>
+    <string name="vpn_show_options">Εμφάνιση προηγμένων επιλογών</string>
     <string name="vpn_search_domains">Τομείς αναζήτησης DNS</string>
     <string name="vpn_dns_servers">Διακομιστής DNS (π.χ. 8.8.8.8)</string>
     <string name="vpn_routes">Διαδρομές προώθησης (π.χ. 10.0.0.0/8)</string>
