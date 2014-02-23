@@ -110,7 +110,7 @@
     <string name="permission_read_attachment_desc">Επιτρέπει σε αυτήν την εφαρμογή την ανάγνωση των επισυνάψεων μηνυμάτων.</string>
     <string name="permission_access_provider_label">Πρόσβαση στα δεδομένα παρόχου ηλεκτρονικού ταχυδρομείου</string>
     <string name="permission_access_provider_desc">Επιτρέπει στην εφαρμογή να έχει πρόσβαση στη βάση δεδομένων του ηλεκτρονικού ταχυδρομείου σας, συμπεριλαμβανομένων των ληφθέντων μηνυμάτων, των απεσταλμένων, των ονομάτων χρηστών και των κωδικών πρόσβασης.</string>
-    <string name="app_name">Ηλεκτρον. ταχυδρομείο</string>
+    <string name="app_name">Ηλεκ/νικό ταχυδρομείο</string>
     <string name="compose_title">Σύνταξη</string>
     <string name="debug_title">Εντοπισμός σφαλμάτων</string>
     <string name="next_action">Επόμενο</string>

@@ -31,7 +31,7 @@
     <string name="agps_str_verify">Επαλήθευση</string>
     <string name="agps_str_notify">Ειδοποίηση</string>
     <string name="EM_NotifyDialog_title">Ειδοποίηση EM</string>
-    <string name="agps_OK">OK</string>
+    <string name="agps_OK">ΕΝΤΑΞΕΙ</string>
     <string name="agps_str_allow">ΑΠΟΔΟΧΗ</string>
     <string name="agps_str_deny">ΑΠΟΡΡΙΨΗ</string>
     <string name="agps_str_error">Σφάλμα</string>
@@ -121,7 +121,7 @@
     <string name="epo_status_starting">Έναρξη...</string>
     <string name="epo_err_update_failed">Τα αρχεία ενημέρωσης EPO απέτυχαν</string>
     <string name="epo_error_dialog_title">Σφάλμα</string>
-    <string name="epo_ok_btn">OK</string>
+    <string name="epo_ok_btn">Εντάξει</string>
     <string name="epo_warning_dialog_title">Προσοχή</string>
     <string name="epo_warning_dialog_message">Η λήψη δεδομένων EPO σε κατάσταση περιαγωγής ενδέχεται να προκαλέσει πρόσθετες χρεώσεις. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
     <string name="ring_summary">Ήχος κλήσης</string>
@@ -140,7 +140,7 @@
     <string name="audio_profile_message_name_length_wrong">Το όνομα πρέπει να περιέχει τουλάχιστον ένα χαρακτήρα</string>
     <string name="audio_profile_message_delete">Το προφίλ %s θα διαγραφεί</string>
     <string name="audio_profile_message_overflow">Επιτρέπεται μόνο η προσθήκη 6 προσαρμοσμένων προφίλ</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="audio_profile_category_custom_title">Προφίλ καθορισμένα από το χρήστη</string>
     <string name="audio_profile_category_predefine_title">Προκαθορισμένα προφίλ</string>
     <string name="general_settings_title">Γενικά</string>
@@ -244,7 +244,7 @@
     <string name="gemini_sim_info_editor_name">Επεξεργασία ονόματος SIM</string>
     <string name="gemini_sim_info_editor_name_dup_title">Η αποθήκευση απέτυχε</string>
     <string name="gemini_sim_info_editor_name_dup_msg">Διπλότυπο όνομα για κάρτα SIM</string>
-    <string name="gemini_sim_info_editor_number">Εισαγάγετε αριθμό τηλεφώνου</string>
+    <string name="gemini_sim_info_editor_number">Εισάγετε αριθμό τηλεφώνου</string>
     <string name="gemini_sim_info_editor_color">Ορισμός χρώματος φόντου</string>
     <string name="gemini_sim_info_editor_number_display_format">Εμφάνιση αριθμών</string>
     <string name="gemini_no_sim_indicator">Δεν υπάρχει κάρτα SIM</string>
@@ -274,7 +274,7 @@
     <string name="gemini_sim_tether_disassociate">Κατάργηση συσχέτισης</string>
     <string name="selected_item_count">Επιλέχθηκαν %d</string>
     <string name="gemini_sim_tether_unselect_all">Κατάργηση επιλογής όλων</string>
-    <string name="gemini_sim_tether_nocontact_confirm">OK</string>
+    <string name="gemini_sim_tether_nocontact_confirm">Εντάξει</string>
     <string name="gemini_sim_tether_select_all">Επιλογή όλων</string>
     <string name="gemini_sim_tether_select_ok">Αποθήκευση</string>
     <string name="gemini_sim_tether_select_cancel">Άκυρο</string>
@@ -511,7 +511,7 @@
     <string name="medium_font">Μεσαία</string>
     <string name="large_font">Μεγάλα</string>
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
-    <string name="font_size_save">OK</string>
+    <string name="font_size_save">Εντάξει</string>
     <string name="sdcard_setting">Κάρτα SD</string>
     <string name="battery_info_status_label">Κατάσταση μπαταρίας:</string>
     <string name="battery_info_power_label">Τροφοδοσία ρεύματος:</string>
@@ -626,7 +626,7 @@
     <string name="proxy_hostname_label">Όνομα κεντρικού υπολογιστή διακομιστή μεσολάβησης</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Προσοχή</string>
-    <string name="proxy_error_dismiss">OK</string>
+    <string name="proxy_error_dismiss">Εντάξει</string>
     <string name="proxy_error_invalid_host">Το όνομα κεντρικού υπολογιστή που πληκτρολογήσατε δεν είναι έγκυρο.</string>
     <string name="proxy_error_invalid_exclusion_list">Η λίστα εξαιρέσεων που έχετε πληκτρολογήσει δεν έχει μορφοποιηθεί σωστά. Πληκτρολογήστε τους τομείς που θέλετε να εξαιρεθούν, χωρίζοντάς τους με κόμμα.</string>
     <string name="proxy_error_empty_port">Θα πρέπει να συμπληρώσετε το πεδίο θύρας.</string>
@@ -901,7 +901,7 @@
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Η ασύρματη οθόνη έχει απενεργοποιηθεί επειδή το Wi-Fi είναι ανενεργό.</string>
     <string name="wifi_display_search_for_devices">Αναζήτηση για οθόνες</string>
     <string name="wifi_display_searching_for_devices">Αναζήτηση...</string>
-    <string name="wifi_display_no_devices_found">Δεν βρέθηκαν κοντινές ασύρματες οθόνες.</string>
+    <string name="wifi_display_no_devices_found">Δεν βρέθηκαν ασύρματες οθόνες σε κοντινή απόσταση.</string>
     <string name="wifi_display_paired_devices">Συζευγμένες οθόνες</string>
     <string name="wifi_display_available_devices">Διαθέσιμες συσκευές</string>
     <string name="wifi_display_status_connecting">Γίνεται σύνδεση</string>
@@ -909,19 +909,19 @@
     <string name="wifi_display_status_available">Διαθέσιμη</string>
     <string name="wifi_display_details">Ρυθμίσεις οθόνης</string>
     <string name="wifi_display_disconnect_title">Αποσύνδεση;</string>
-    <string name="wifi_display_disconnect_text">Με αυτόν τον τρόπο θα τερματιστεί η σύνδεσή σας με τη συσκευή:<b>%1$s</b></string>
+    <string name="wifi_display_disconnect_text">Αυτό θα τερματίσει τη σύνδεσή σας με τη:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="wifi_display_options_title">Επιλογές ασύρματης οθόνης</string>
     <string name="wifi_display_options_forget">Διαγραφή</string>
     <string name="wifi_display_options_done">Τέλος</string>
     <string name="wifi_display_options_name">Όνομα</string>
     <string name="wifi_display_summary_on">ενεργή</string>
-    <string name="wifi_display_summary_off">απενεργοποιημένη</string>
-    <string name="wifi_display_summary_disabled">Απενεργοποιημένο</string>
+    <string name="wifi_display_summary_off">ανενεργή</string>
+    <string name="wifi_display_summary_disabled">Απενεργοποιημένη</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Να επιτρέπεται η ανταλλαγή δεδομένων όταν το τηλέφωνο αγγίζει μια άλλη συσκευή</string>
     <string name="android_beam_settings_title">Δέσμη Android</string>
     <string name="android_beam_on_summary">Έτοιμο για μετάδοση περιεχομένου εφαρμογής μέσω NFC</string>
-    <string name="android_beam_off_summary">Απενεργοποίηση</string>
+    <string name="android_beam_off_summary">Ανενεργή</string>
     <string name="android_beam_disabled_summary">Δεν διατίθεται, επειδή η ΕΚΠ είναι απενεργοποιημένη</string>
     <string name="android_beam_label">Δέσμη Android</string>
     <string name="android_beam_explained">"Όταν αυτή η λειτουργία είναι απενεργοποιημένη, μπορείτε να μεταδώσετε περιεχόμενο εφαρμογών σε άλλη συσκευή με δυνατότητα ΕΚΠ, διατηρώντας τις συσκευές σε κοντινή απόσταση μεταξύ τους. Για παράδειγμα, μπορείτε να μεταδώσετε σελίδες του προγράμματος περιήγησης, βίντεο του YouTube, επαφές και άλλα.
@@ -930,7 +930,7 @@
     <string name="nsd_quick_toggle_title">Εντοπισμός υπηρεσίας δικτύου</string>
     <string name="nsd_quick_toggle_summary">Να επιτρέπεται σε εφαρμογές ή σε άλλες συσκευές να εντοπίζουν εφαρμογές σε αυτήν τη συσκευή</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
-    <string name="wifi_quick_toggle_summary">Ενεργοποίηση Wi-Fi</string>
+    <string name="wifi_quick_toggle_summary">Ενεργοποιήστε το Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Ρυθμίσεις Wi-Fi</string>
     <string name="wifi_settings_title">Wi-Fi</string>
@@ -954,7 +954,7 @@
     <string name="wifi_menu_wps_pbc">Κουμπί WPS</string>
     <string name="wifi_menu_more_options">Περισσότερες επιλογές</string>
     <string name="wifi_menu_wps_pin">Εισαγωγή κωδικού Pin WPS</string>
-    <string name="wifi_menu_p2p">Απευθείας Wi-Fi</string>
+    <string name="wifi_menu_p2p">Άμεσο Wi-Fi</string>
     <string name="wifi_menu_scan">Σάρωση</string>
     <string name="wifi_menu_advanced">Προηγμένα</string>
     <string name="wifi_menu_connect">Σύνδεση στο δίκτυο</string>
@@ -969,8 +969,8 @@
     <string name="wifi_show_advanced">Εμφάνιση προηγμένων επιλογών</string>
     <string name="wifi_wps_setup_title">Ρύθμιση προστατευόμενου Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Έναρξη WPS...</string>
-    <string name="wifi_wps_onstart_pbc">Πατήστε ο κουμπί ρύθμισης προστατευόμενου Wi-Fi στον δρομολογητή σας. Ενδέχεται να ονομάζεται \"WPS\" ή να περιέχει αυτό το σύμβολο:</string>
-    <string name="wifi_wps_onstart_pin">Εισαγάγετε το PIN %1$s στον δρομολογητή σας Wi-Fi. Η ρύθμιση μπορεί να διαρκέσει έως και δύο λεπτά.</string>
+    <string name="wifi_wps_onstart_pbc">Πατήστε το κουμπί ρύθμισης προστατευόμενου Wi-Fi στον δρομολογητή σας. Ενδέχεται να ονομάζεται \"WPS\" ή να περιέχει αυτό το σύμβολο:</string>
+    <string name="wifi_wps_onstart_pin">Εισάγετε το PIN %1$s στον δρομολογητή σας Wi-Fi. Η ρύθμιση μπορεί να διαρκέσει έως και δύο λεπτά.</string>
     <string name="wifi_wps_complete">Επιτυχία WPS. Σύνδεση στο δίκτυο...</string>
     <string name="wifi_wps_connected">Σύνδεση στο δίκτυο Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">Η ρύθμιση WPS βρίσκεται ήδη σε εξέλιξη και ίσως χρειαστούν έως και δύο λεπτά για να ολοκληρωθεί</string>
@@ -1045,7 +1045,7 @@
     <string name="wifi_ip_settings_invalid_ip_address">Πληκτρολογήστε μια έγκυρη διεύθυνση IP.</string>
     <string name="wifi_ip_settings_invalid_gateway">Πληκτρολογήστε μια έγκυρη διεύθυνση πύλης.</string>
     <string name="wifi_ip_settings_invalid_dns">Πληκτρολογήστε μια έγκυρη διεύθυνση DNS.</string>
-    <string name="wifi_ip_settings_invalid_network_prefix_length">Εισαγάγετε το μήκος προθέματος δικτύου από 0 έως 32.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Πληκτολογήστε το μήκος προθέματος δικτύου από 0 έως 32.</string>
     <string name="wifi_dns1">DNS 1</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
@@ -1054,7 +1054,7 @@
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Μήκος προθέματος δικτύου</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_p2p_settings_title">Απευθείας Wi-Fi</string>
+    <string name="wifi_p2p_settings_title">Άμεσο Wi-Fi</string>
     <string name="wifi_p2p_device_info">Στοιχεία συσκευής</string>
     <string name="wifi_p2p_persist_network">Απομνημόνευση αυτής της σύνδεσης</string>
     <string name="wifi_p2p_menu_search">Αναζήτηση συσκευών</string>
@@ -1198,7 +1198,7 @@
     <string name="sim_change_succeeded">Ο αριθμός PIN της κάρτας SIM άλλαξε επιτυχώς</string>
     <string name="sim_lock_failed">"Δεν είναι δυνατή η αλλαγή της κατάστασης κλειδώματος της κάρτας SIM.
 Πιθανόν ο αριθμός PIN να είναι εσφαλμένος."</string>
-    <string name="sim_enter_ok">OK</string>
+    <string name="sim_enter_ok">Εντάξει</string>
     <string name="sim_enter_cancel">Άκυρο</string>
     <string name="device_info_settings">Κατάσταση τηλεφώνου</string>
     <string name="system_update_settings_list_item_title">Ενημερώσεις συστήματος</string>
@@ -1498,11 +1498,11 @@
     <string name="enable_compatibility">Κλιμάκωση εφαρμογών</string>
     <string name="unknown">Άγνωστο</string>
     <string name="sort_order_alpha">Ταξινόμηση κατά όνομα</string>
-    <string name="sort_order_size">Ταξινόμηση με βάση μέγεθος</string>
+    <string name="sort_order_size">Ταξινόμηση κατά μέγεθος</string>
     <string name="show_running_services">Εμφάνιση υπηρεσιών που εκτελούνται</string>
     <string name="show_background_processes">Εμφάνιση διεργασιών προσωρινής μνήμης</string>
-    <string name="reset_app_preferences">Επαναφορά προτιμόμενων εφαρμογών</string>
-    <string name="reset_app_preferences_title">Επαναφορά προτιμόμενων εφαρμογών;</string>
+    <string name="reset_app_preferences">Επαναφορά προτιμήσεων εφαρμογών</string>
+    <string name="reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμογών;</string>
     <string name="reset_app_preferences_desc">"Η ενέργεια αυτή θα επαναφέρει όλες τις προτιμήσεις για:
 
  "<li>Απενεργοποιημένες εφαρμογές</li>"
@@ -1527,7 +1527,7 @@
     <string name="recompute_size">Εκ νέου υπολογισμός μεγέθους...</string>
     <string name="clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
     <string name="clear_data_dlg_text">Όλα τα δεδομένα της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, τις ρυθμίσεις, τους λογαριασμούς, τις βάσεις δεδομένων κλπ.</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">Εντάξει</string>
     <string name="dlg_cancel">Άκυρο</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα με τις εγκατεστημένες εφαρμογές.</string>
@@ -1615,7 +1615,7 @@
     <string name="auto_caps_summary">Μετατροπή του πρώτου γράμματος σε προτάσεις σε κεφαλαίο</string>
     <string name="auto_punctuate">Αυτόματη στίξη</string>
     <string name="hardkeyboard_category">Κανονικές ρυθμίσεις πληκτρολογίου</string>
-    <string name="auto_punctuate_summary">Πατήστε το πλήκτρο Space δύο φορές για να εισαγάγετε \".\"</string>
+    <string name="auto_punctuate_summary">Πατήστε το πλήκτρο Space δύο φορές για να εισάγετε \".\"</string>
     <string name="show_password">Να γίνουν οι κωδικοί πρόσβασης ορατοί</string>
     <string name="show_password_summary" />
     <string name="ime_security_warning">Αυτή η μέθοδος εισαγωγής ενδέχεται να έχει τη δυνατότητα να συλλέξει όλα τα κείμενα που πληκτρολογείτε, συμπεριλαμβανομένων προσωπικών δεδομένων, όπως είναι οι κωδικοί πρόσβασης και οι αριθμοί πιστωτικής κάρτας. Προέρχεται από την εφαρμογή %1$s. Να γίνει χρήση αυτής της μεθόδου εισαγωγής;</string>
@@ -1652,7 +1652,7 @@
     <string name="user_dict_settings_empty_text">Δεν υπάρχουν λέξεις καταχωρημένες στο λεξικό χρήστη. Προσθέστε μια λέξη πατώντας το κουμπί Προσθήκη ( + ).</string>
     <string name="user_dict_settings_all_languages">Για όλες τις γλώσσες</string>
     <string name="user_dict_settings_more_languages">Περισσότερες γλώσσες...</string>
-    <string name="testing">Δοκιμή</string>
+    <string name="testing">Γίνεται δοκιμή</string>
     <string name="testing_phone_info">Πληροφορίες τηλεφώνου</string>
     <string name="testing_battery_info">Πληροφορίες μπαταρίας</string>
     <string name="testing_sim_toolkit">Εργαλειοθήκη SIM</string>
@@ -1663,7 +1663,7 @@
     <string name="quick_launch_shortcut">Αναζήτηση + %1$s</string>
     <string name="quick_launch_clear_dialog_title">Εκκαθάριση</string>
     <string name="quick_launch_clear_dialog_message">Η συντόμευσή σας για %1$s (%2$s) θα εκκαθαριστεί.</string>
-    <string name="quick_launch_clear_ok_button">OK</string>
+    <string name="quick_launch_clear_ok_button">Εντάξει</string>
     <string name="quick_launch_clear_cancel_button">Άκυρο</string>
     <string name="quick_launch_display_mode_applications">Εφαρμογές</string>
     <string name="quick_launch_display_mode_shortcuts">Συντομεύσεις</string>
@@ -1706,7 +1706,7 @@
     <string name="enforce_read_external_confirm_message">"Όταν μια κάρτα SD προστατεύεται, οι εφαρμογές πρέπει να ζητούν άδεια για την ανάγνωση δεδομένων από τον εξωτερικό χώρο αποθήκευσης.
 
 Ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν μέχρι να ενημερωθούν από τους προγραμματιστές τους."</string>
-    <string name="gadget_picker_title">Επιλογή gadget</string>
+    <string name="gadget_picker_title">Επιλογή μικροεφαρμογής</string>
     <string name="widget_picker_title">Επιλογή γραφικού στοιχείου</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Να γίνει δημιουργία γραφικού στοιχείου και να επιτρέπεται η πρόσβαση;</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Αφού δημιουργήσετε το γραφικό στοιχείο, ο κεντρικός υπολογιστής %1$s θα μπορεί να αποκτά πρόσβαση σε όλα τα δεδομένα που προβάλλει.</string>
@@ -1893,8 +1893,8 @@
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ενεργό</string>
     <string name="gadget_state_off">ανενεργό</string>
-    <string name="gadget_state_turning_on">ενεργοποίηση</string>
-    <string name="gadget_state_turning_off">απενεργοποίηση</string>
+    <string name="gadget_state_turning_on">γίνεται ενεργό</string>
+    <string name="gadget_state_turning_off">γίνεται ανενεργό</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_gps">GPS</string>
@@ -1902,7 +1902,7 @@
     <string name="gadget_brightness_template">Φωτεινότητα %1$s</string>
     <string name="gadget_brightness_state_auto">αυτόματη</string>
     <string name="gadget_brightness_state_full">πλήρης</string>
-    <string name="gadget_brightness_state_half">μέτρια</string>
+    <string name="gadget_brightness_state_half">μισή</string>
     <string name="gadget_brightness_state_off">ανενεργή</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Αποθηκευτικός χώρος διαπιστευτηρίων</string>
@@ -2005,8 +2005,8 @@
     <string name="background_data_dialog_title">Απενεργοποίηση δεδομένων παρασκηνίου;</string>
     <string name="background_data_dialog_message">Η απενεργοποίηση δεδομένων παρασκηνίου αυξάνει το χρόνο ζωής της μπαταρίας και μειώνει τη χρήση δεδομένων.Ορισμένες εφαρμογές ενδέχεται να συνεχίσουν να χρησιμοποιούν τη σύνδεση δεδομένων παρασκηνίου.</string>
     <string name="sync_automatically">Αυτόματος συγχρονισμός δεδομένων εφαρμογών</string>
-    <string name="sync_enabled">Ο συγχρονισμός είναι ενεργοποιημένος</string>
-    <string name="sync_disabled">Ο συγχρονισμός είναι απενεργοποιημένος</string>
+    <string name="sync_enabled">Ο συγχρονισμός είναι ενεργός</string>
+    <string name="sync_disabled">Ο συγχρονισμός είναι ανενεργός</string>
     <string name="sync_error">Σφάλμα συγχρονισμού</string>
     <string name="last_synced">Τελευταίος συγχρονισμός %1$s</string>
     <string name="sync_in_progress">Συγχρονισμός τώρα...</string>
@@ -2038,7 +2038,7 @@
     <string name="wimax_settings">Ρυθμίσεις 4G</string>
     <string name="wimax_settings_summary">Εγκατάσταση και διαχείριση δικτύου και μόντεμ 4G</string>
     <string name="status_wimax_mac_address">Διεύθυνση 4G MAC</string>
-    <string name="enter_password">Εισαγάγετε κωδικό πρόσβασης για την αποκρυπτογράφηση του αποθηκευτικού χώρου</string>
+    <string name="enter_password">Πληκτρολογήστε κωδικό πρόσβασης για την αποκρυπτογράφηση του αποθηκευτικού χώρου</string>
     <string name="try_again">Δοκιμάστε ξανά.</string>
     <string name="delete">Διαγραφή</string>
     <string name="misc_files">Διάφορα αρχεία</string>
