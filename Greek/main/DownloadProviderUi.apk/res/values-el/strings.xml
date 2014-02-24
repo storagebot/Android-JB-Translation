@@ -39,7 +39,7 @@
     <string name="dialog_failed_body">Θέλετε να επαναλάβετε τη λήψη του αρχείου αργότερα ή να διαγραφεί από την ουρά;</string>
     <string name="dialog_title_queued_body">Αρχείο στην ουρά</string>
     <string name="dialog_queued_body">Αυτό το αρχείο βρίσκεται στην ουρά για μελλοντική λήψη, επομένως δεν είναι ακόμα διαθέσιμο.</string>
-    <string name="dialog_file_missing_body">Δεν μπορεί να βρεθεί το αρχείο που κατεβάσατε.</string>
+    <string name="dialog_file_missing_body">Δεν είναι δυνατή η εύρεση του αρχείου που λήφθηκε.</string>
     <string name="dialog_insufficient_space_on_external">Δεν είναι δυνατή η ολοκλήρωση της λήψης. Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης.</string>
     <string name="dialog_insufficient_space_on_cache">Δεν είναι δυνατή η ολοκλήρωση της λήψης. Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης λήψεων.</string>
     <string name="dialog_cannot_resume">Η λήψη διακόπηκε και δεν είναι δυνατό να συνεχιστεί.</string>

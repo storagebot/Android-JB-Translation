@@ -875,7 +875,7 @@
     <string name="sip_menu_save">Αποθήκευση</string>
     <string name="sip_menu_discard">Απόρριψη</string>
     <string name="alert_dialog_close">Κλείσιμο του προφίλ</string>
-    <string name="alert_dialog_ok">ΟΚ</string>
+    <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Κλείσιμο</string>
     <string name="primary_account_summary_with">Αρχικός λογαριασμός. %s</string>
     <string name="registration_status_checking_status">Έλεγχος κατάστασης...</string>

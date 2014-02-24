@@ -31,7 +31,7 @@
     <string name="agps_str_verify">Επαλήθευση</string>
     <string name="agps_str_notify">Ειδοποίηση</string>
     <string name="EM_NotifyDialog_title">Ειδοποίηση EM</string>
-    <string name="agps_OK">ΕΝΤΑΞΕΙ</string>
+    <string name="agps_OK">OK</string>
     <string name="agps_str_allow">ΑΠΟΔΟΧΗ</string>
     <string name="agps_str_deny">ΑΠΟΡΡΙΨΗ</string>
     <string name="agps_str_error">Σφάλμα</string>
@@ -121,7 +121,7 @@
     <string name="epo_status_starting">Έναρξη...</string>
     <string name="epo_err_update_failed">Τα αρχεία ενημέρωσης EPO απέτυχαν</string>
     <string name="epo_error_dialog_title">Σφάλμα</string>
-    <string name="epo_ok_btn">Εντάξει</string>
+    <string name="epo_ok_btn">OK</string>
     <string name="epo_warning_dialog_title">Προσοχή</string>
     <string name="epo_warning_dialog_message">Η λήψη δεδομένων EPO σε κατάσταση περιαγωγής ενδέχεται να προκαλέσει πρόσθετες χρεώσεις. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
     <string name="ring_summary">Ήχος κλήσης</string>
@@ -140,7 +140,7 @@
     <string name="audio_profile_message_name_length_wrong">Το όνομα πρέπει να περιέχει τουλάχιστον ένα χαρακτήρα</string>
     <string name="audio_profile_message_delete">Το προφίλ %s θα διαγραφεί</string>
     <string name="audio_profile_message_overflow">Επιτρέπεται μόνο η προσθήκη 6 προσαρμοσμένων προφίλ</string>
-    <string name="ok">Εντάξει</string>
+    <string name="ok">OK</string>
     <string name="audio_profile_category_custom_title">Προφίλ καθορισμένα από το χρήστη</string>
     <string name="audio_profile_category_predefine_title">Προκαθορισμένα προφίλ</string>
     <string name="general_settings_title">Γενικά</string>
@@ -274,7 +274,7 @@
     <string name="gemini_sim_tether_disassociate">Κατάργηση συσχέτισης</string>
     <string name="selected_item_count">Επιλέχθηκαν %d</string>
     <string name="gemini_sim_tether_unselect_all">Κατάργηση επιλογής όλων</string>
-    <string name="gemini_sim_tether_nocontact_confirm">Εντάξει</string>
+    <string name="gemini_sim_tether_nocontact_confirm">OK</string>
     <string name="gemini_sim_tether_select_all">Επιλογή όλων</string>
     <string name="gemini_sim_tether_select_ok">Αποθήκευση</string>
     <string name="gemini_sim_tether_select_cancel">Άκυρο</string>
@@ -511,7 +511,7 @@
     <string name="medium_font">Μεσαία</string>
     <string name="large_font">Μεγάλα</string>
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
-    <string name="font_size_save">Εντάξει</string>
+    <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Κάρτα SD</string>
     <string name="battery_info_status_label">Κατάσταση μπαταρίας:</string>
     <string name="battery_info_power_label">Τροφοδοσία ρεύματος:</string>
@@ -626,7 +626,7 @@
     <string name="proxy_hostname_label">Όνομα κεντρικού υπολογιστή διακομιστή μεσολάβησης</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Προσοχή</string>
-    <string name="proxy_error_dismiss">Εντάξει</string>
+    <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Το όνομα κεντρικού υπολογιστή που πληκτρολογήσατε δεν είναι έγκυρο.</string>
     <string name="proxy_error_invalid_exclusion_list">Η λίστα εξαιρέσεων που έχετε πληκτρολογήσει δεν έχει μορφοποιηθεί σωστά. Πληκτρολογήστε τους τομείς που θέλετε να εξαιρεθούν, χωρίζοντάς τους με κόμμα.</string>
     <string name="proxy_error_empty_port">Θα πρέπει να συμπληρώσετε το πεδίο θύρας.</string>
@@ -815,7 +815,7 @@
     <string name="lockpassword_password_requires_digit">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα ψηφίο.</string>
     <string name="lockpassword_password_requires_symbol">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα σύμβολο.</string>
     <string name="lockpassword_password_recently_used">Ο διαχειριστής της συσκευής δεν επιτρέπει τη χρήση πρόσφατου κωδικού πρόσβασης.</string>
-    <string name="lockpassword_ok_label">ΟΚ</string>
+    <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_cancel_label">Άκυρο</string>
     <string name="lockpattern_tutorial_cancel_label">Άκυρο</string>
     <string name="lockpattern_tutorial_continue_label">Επόμενο</string>
@@ -1198,7 +1198,7 @@
     <string name="sim_change_succeeded">Ο αριθμός PIN της κάρτας SIM άλλαξε επιτυχώς</string>
     <string name="sim_lock_failed">"Δεν είναι δυνατή η αλλαγή της κατάστασης κλειδώματος της κάρτας SIM.
 Πιθανόν ο αριθμός PIN να είναι εσφαλμένος."</string>
-    <string name="sim_enter_ok">Εντάξει</string>
+    <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Άκυρο</string>
     <string name="device_info_settings">Κατάσταση τηλεφώνου</string>
     <string name="system_update_settings_list_item_title">Ενημερώσεις συστήματος</string>
@@ -1527,7 +1527,7 @@
     <string name="recompute_size">Εκ νέου υπολογισμός μεγέθους...</string>
     <string name="clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
     <string name="clear_data_dlg_text">Όλα τα δεδομένα της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, τις ρυθμίσεις, τους λογαριασμούς, τις βάσεις δεδομένων κλπ.</string>
-    <string name="dlg_ok">Εντάξει</string>
+    <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Άκυρο</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα με τις εγκατεστημένες εφαρμογές.</string>
@@ -1642,7 +1642,7 @@
     <string name="user_dict_settings_add_screen_title">Φράση</string>
     <string name="user_dict_settings_add_dialog_more_options">Περισσότερες επιλογές</string>
     <string name="user_dict_settings_add_dialog_less_options">Λιγότερες επιλογές</string>
-    <string name="user_dict_settings_add_dialog_confirm">ΟΚ</string>
+    <string name="user_dict_settings_add_dialog_confirm">OK</string>
     <string name="user_dict_settings_add_word_option_name">Λέξη:</string>
     <string name="user_dict_settings_add_shortcut_option_name">Συντόμευση:</string>
     <string name="user_dict_settings_add_locale_option_name">Γλώσσα:</string>
@@ -1663,7 +1663,7 @@
     <string name="quick_launch_shortcut">Αναζήτηση + %1$s</string>
     <string name="quick_launch_clear_dialog_title">Εκκαθάριση</string>
     <string name="quick_launch_clear_dialog_message">Η συντόμευσή σας για %1$s (%2$s) θα εκκαθαριστεί.</string>
-    <string name="quick_launch_clear_ok_button">Εντάξει</string>
+    <string name="quick_launch_clear_ok_button">OK</string>
     <string name="quick_launch_clear_cancel_button">Άκυρο</string>
     <string name="quick_launch_display_mode_applications">Εφαρμογές</string>
     <string name="quick_launch_display_mode_shortcuts">Συντομεύσεις</string>
