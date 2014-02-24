@@ -568,13 +568,13 @@
     <string name="bluetooth_rename_device">Μετονομασία τηλεφώνου</string>
     <string name="bluetooth_rename_button">Μετονομασία</string>
     <string name="bluetooth_disconnect_title">Αποσύνδεση;</string>
-    <string name="bluetooth_disconnect_all_profiles">Θα τερματιστεί η σύνδεσή σας με τη συσκευή:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Αυτό θα τερματίσει τη σύνδεσή σας με το:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Απενεργοποίηση προφίλ;</string>
     <string name="bluetooth_disable_profile_message">Αυτό θα απενεργοποιήσει το εξής:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Από:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Συνδεδεμένο</string>
-    <string name="bluetooth_connected_no_headset">Συνδεδεμένο (όχι τηλ.)</string>
-    <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (όχι μέσα)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσα)</string>
+    <string name="bluetooth_connected_no_headset">Συνδεδεμένο (χωρίς τηλέφωνο)</string>
+    <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς χώρο αποθήκευσης)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή χώρο αποθήκευσης)</string>
     <string name="bluetooth_disconnected">Αποσυνδέθηκε</string>
     <string name="bluetooth_disconnecting">Αποσύνδεση...</string>
     <string name="bluetooth_connecting">Σύνδεση...</string>
@@ -1243,8 +1243,8 @@
     <string name="memory_available_read_only">Διαθέσιμος (μόνος για ανάγνωση)</string>
     <string name="memory_size">Συνολικός χώρος</string>
     <string name="memory_calculating_size">Υπολογισμός...</string>
-    <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών και περιεχόμενο πολυμέσων)</string>
-    <string name="memory_media_usage">Μέσα</string>
+    <string name="memory_apps_usage">Εφαρμογές (δεδομένα εφαρμογών και πολυμέσα)</string>
+    <string name="memory_media_usage">Πολυμέσα</string>
     <string name="memory_downloads_usage">Λήψεις</string>
     <string name="memory_dcim_usage">Εικόνες, βίντεο</string>
     <string name="memory_music_usage">Ήχος (μουσική, ήχοι κλήσης, podcast κλπ.)</string>
@@ -1268,7 +1268,7 @@
     <string name="sd_ejecting_title">Αποπροσάρτηση</string>
     <string name="sd_ejecting_summary">Αποπροσάρτηση σε εξέλιξη</string>
     <string name="storage_low_title">Ο χώρος αποθήκευσης εξαντλείται</string>
-    <string name="storage_low_summary">Ορισμένες λειτουργίες συστήματος, όπως ο συγχρονισμός ενδέχεται να μην λειτουργούν σωστά. Δοκιμάστε να αποδεσμεύσετε χώρο διαγράφοντας ή ξεκαρφιτσώνοντας στοιχεία, όπως εφαρμογές ή περιεχόμενο πολυμέσων.</string>
+    <string name="storage_low_summary">Ορισμένες λειτουργίες συστήματος, όπως ο συγχρονισμός ενδέχεται να μην λειτουργούν σωστά. Δοκιμάστε να αποδεσμεύσετε χώρο διαγράφοντας ή ξεκαρφιτσώνοντας στοιχεία, όπως εφαρμογές ή πολυμέσα.</string>
     <string name="storage_menu_usb">Σύνδεση υπολογιστή μέσω USB</string>
     <string name="storage_title_usb">Σύνδεση υπολογιστή μέσω USB</string>
     <string name="usb_connection_category">Σύνδεση ως</string>
