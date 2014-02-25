@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wipe_all_messages">Τα δεδομένα διακομιστή έχουν καταστραφεί. Θα γίνει νέος συγχρονισμός όλων των μηνυμάτων</string>
-    <string name="exchange_name">Corporate</string>
+    <string name="exchange_name">Εταιρικός</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="meeting_accepted">Έγινε αποδοχή: %s</string>
     <string name="meeting_declined">Απορρίφθηκε: %s</string>
@@ -24,19 +24,19 @@
     <string name="policy_dont_allow_text_messaging">Δεν επιτρέπεται η ανταλλαγή μηνυμάτων κειμένου</string>
     <string name="policy_dont_allow_pop_imap">Δεν επιτρέπονται λογαριασμοί POP3 ή IMAP</string>
     <string name="policy_dont_allow_irda">Δεν επιτρέπoνται υπέρυθρες επικοινωνίες</string>
-    <string name="policy_dont_allow_html">Δεν επιτρέπονται HTML email</string>
+    <string name="policy_dont_allow_html">Δεν επιτρέπεται ηλεκτρονικό ταχυδρομείο HTML</string>
     <string name="policy_dont_allow_browser">Δεν επιτρέπονται περιηγητές</string>
-    <string name="policy_dont_allow_consumer_email">Δεν επιτρέπονται email καταναλωτών</string>
+    <string name="policy_dont_allow_consumer_email">Δεν επιτρέπεται ηλεκτρονικό ταχυδρομείο καταναλωτών</string>
     <string name="policy_dont_allow_internet_sharing">Απαγόρευση κοινής χρήσης διαδικτύου</string>
     <string name="policy_require_smime">Απαιτούνται μηνύματα SMIME</string>
     <string name="policy_bluetooth_restricted">Περιορισμός χρήσης Bluetooth</string>
     <string name="policy_app_blacklist">Απαγόρευση συγκεκριμένων εφαρμογών</string>
     <string name="policy_app_whitelist">Επιτρέπονται μόνο συγκεκριμένες εφαρμογές</string>
-    <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
-    <string name="policy_html_truncation">Περιορισμός μεγέθους HTML email</string>
+    <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου ηλεκτρονικού ταχυδρομείου</string>
+    <string name="policy_html_truncation">Περιορισμός μεγέθους ηλεκτρονικού ταχυδρομείου HTML</string>
     <string name="policy_require_sd_encryption">Απαιτείται κρυπτογράφηση κάρτας SD</string>
     <string name="policy_dont_allow_attachments">Δεν επιτρέπονται συνημμένα</string>
     <string name="policy_max_attachment_size">Περιορισμός μεγέθους συνημμένων</string>
-    <string name="policy_require_manual_sync_roaming">Επιτρέπεται μόνο χειροκίνητος συγχρονισμός κατά την περιαγωγή</string>
+    <string name="policy_require_manual_sync_roaming">Επιτρέπεται μόνο μη αυτόματος συγχρονισμός κατά την περιαγωγή</string>
     <string name="policy_require_encryption">Απαιτείται κρυπτογράφηση συσκευής</string>
 </resources>
