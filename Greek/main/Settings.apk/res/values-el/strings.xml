@@ -372,12 +372,12 @@
     <string name="wifi_ap_client_details_title">Λεπτομέρειες</string>
     <string name="wifi_ap_client_mac_label">Διεύθυνση MAC:</string>
     <string name="wifi_ap_client_ip_label">Διεύθυνση IP:</string>
-    <string name="usb_sharing_title">Internet USB</string>
+    <string name="usb_sharing_title">Διαδίκτυο USB</string>
     <string name="usb_sharing_summary">Κοινή χρήση διαδικτύου υπολογιστή Windows μέσω καλωδίου USB</string>
-    <string name="usb_sharing_info_title">Διαβίβαση Διαδικτύου</string>
-    <string name="usb_sharing_info_step_1">1. Ανοίξτε τις συνδέσεις στον υπολογιστή Windows που διαθέτετε.</string>
-    <string name="usb_sharing_info_step_2">2. Κάντε δεξιό κλικ στη σύνδεση που θέλετε να κάνετε κοινή χρήση και, στη συνέχεια, επιλέξτε τις ιδιότητες.</string>
-    <string name="usb_sharing_info_step_3">"3. Κάντε κλικ στην καρτέλα κοινής χρήσης και επιλέξτε 'Να επιτρέπεται σε άλλους χρήστες δικτύου η σύνδεση μέσου της σύνδεσης διαδικτύου αυτού του υπολογιστή'(επιλέξτε το δίκτυο που έχει προστεθεί πρόσφατα το οποίο αντιπροσωπεύει το διαδίκτυο μέσω USB εάν εμφανιστεί η ένδειξη 'Σύνδεση οικιακού δικτύου')."</string>
+    <string name="usb_sharing_info_title">Διαβίβαση διαδικτύου</string>
+    <string name="usb_sharing_info_step_1">1. Ανοίξτε τις συνδέσεις δικτύου στον υπολογιστή σας Windows.</string>
+    <string name="usb_sharing_info_step_2">2. Κάντε δεξί κλικ στη σύνδεση που θέλετε να κάνετε κοινή χρήση και στη συνέχεια επιλέξτε τις ιδιότητες.</string>
+    <string name="usb_sharing_info_step_3">"3. Κάντε κλικ στην καρτέλα κοινής χρήσης και επιλέξτε 'Να επιτρέπεται σε άλλους χρήστες δικτύου η σύνδεση μέσω της σύνδεσης διαδικτύου αυτού του υπολογιστή'(επιλέξτε το δίκτυο που έχει προστεθεί πρόσφατα το οποίο αντιπροσωπεύει το διαδίκτυο μέσω USB εάν εμφανιστεί η ένδειξη 'Σύνδεση οικιακού δικτύου')."</string>
     <string name="wifi_ap_bandwidth_title">Χρήση εύρους ζώνης</string>
     <string name="wifi_ap_bandwidth_enable">Ενεργοποίηση περιορισμού εύρους ζώνης</string>
     <string name="wifi_ap_bandwidth_chart_title">Ταχύτητα δεδομένων σε πραγματικό χρόνο</string>
@@ -2033,7 +2033,7 @@
     <string name="remove_account_failed">Αυτός ο λογαριασμός απαιτείται από ορισμένες εφαρμογές. Μπορείτε να τον καταργήσετε μόνο μέσω της επαναφοράς των προεπιλεγμένων εργοστασιακών ρυθμίσεων του τηλεφώνου (με την οποία διαγράφονται όλα τα προσωπικά σας δεδομένα) από το μενού Ρυθμίσεις > Δημιουργία αντιγράφων ασφαλείας και επαναφορά.</string>
     <string name="provider_label">Προώθηση συνδρομών</string>
     <string name="sync_item_title">%s</string>
-    <string name="cant_sync_dialog_title">Δεν είναι δυνατός ο μη αυτόματος συγχρονισμός</string>
+    <string name="cant_sync_dialog_title">Δεν είναι δυνατός ο χειροκίνητος συγχρονισμός</string>
     <string name="cant_sync_dialog_message">Ο συγχρονισμός για αυτό το στοιχείο είναι προς το παρόν απενεργοποιημένος. Για να αλλάξετε τη ρύθμισή σας, ενεργοποιήστε προσωρινά τα δεδομένα παρασκηνίου και τον αυτόματο συγχρονισμό.</string>
     <string name="wimax_settings">Ρυθμίσεις 4G</string>
     <string name="wimax_settings_summary">Εγκατάσταση και διαχείριση δικτύου και μόντεμ 4G</string>
@@ -2146,7 +2146,7 @@
 
 Για να επιλέξετε το είδος των πληροφοριών που συγχρονίζονται σε κάθε λογαριασμό, μεταβείτε στην περιοχή Ρυθμίσεις > Λογαριασμοί."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Απενεργοποίηση αυτόματου συγχρονισμού δεδομένων;</string>
-    <string name="data_usage_auto_sync_off_dialog">Με αυτόν τον τρόπο θα εξοικονομήσετε δεδομένα και χρήση μπαταρίας, αλλά θα πρέπει να συγχρονίσετε κάθε λογαριασμό με μη αυτόματο τρόπο για να συλλέξετε πρόσφατες πληροφορίες. Δεν θα λαμβάνετε ειδοποιήσεις κατά τη διάρκεια των ενημερώσεων.</string>
+    <string name="data_usage_auto_sync_off_dialog">Με αυτόν τον τρόπο θα εξοικονομήσετε δεδομένα και χρήση μπαταρίας, αλλά θα πρέπει να συγχρονίσετε κάθε λογαριασμό με χειροκίνητο τρόπο για να συλλέξετε πρόσφατες πληροφορίες. Δεν θα λαμβάνετε ειδοποιήσεις κατά τη διάρκεια των ενημερώσεων.</string>
     <string name="data_usage_cycle_editor_title">Ημερομηνία επαναφοράς κύκλου χρήσης</string>
     <string name="data_usage_cycle_editor_subtitle">Ημερομηνία του κάθε μήνα:</string>
     <string name="data_usage_cycle_editor_positive">Ορισμός</string>

@@ -37,6 +37,6 @@
     <string name="policy_require_sd_encryption">Απαιτείται κρυπτογράφηση κάρτας SD</string>
     <string name="policy_dont_allow_attachments">Δεν επιτρέπονται συνημμένα</string>
     <string name="policy_max_attachment_size">Περιορισμός μεγέθους συνημμένων</string>
-    <string name="policy_require_manual_sync_roaming">Επιτρέπεται μόνο μη αυτόματος συγχρονισμός κατά την περιαγωγή</string>
+    <string name="policy_require_manual_sync_roaming">Επιτρέπεται μόνο χειροκίνητος συγχρονισμός κατά την περιαγωγή</string>
     <string name="policy_require_encryption">Απαιτείται κρυπτογράφηση συσκευής</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_default_text_encoding_default">Αυτόματη ανίχνευση</string>
-    <string name="delete_folder_warning">Να διαγραφεί ο φάκελος \" %s\";</string>
+    <string name="delete_folder_warning">Να διαγραφεί ο φάκελος \"%s\";</string>
     <string name="contextmenu_savelinkbookmark">Αποθήκευση συνδέσμου ως σελιδοδείκτη</string>
     <string name="pref_content_landscape_only">Εμφάνιση μόνο οριζόντιου προσανατολισμού</string>
     <string name="pref_content_landscape_only_summary">Εμφανίζει τις σελίδες μόνο στον πιο πλατύ, οριζόντιο προσανατολισμό οθόνης</string>

@@ -183,13 +183,13 @@
     <string name="minutereminder_turnon">Ενεργοποίηση υπενθύμισης λεπτών στα 50 δευτ. για κάθε λεπτό</string>
     <string name="minutereminder_turnoff">Απενεργοποίηση υπενθύμισης λεπτών</string>
     <string name="voice_call_settings">Ρυθμίσεις φωνητικής κλήσης</string>
-    <string name="enable_sip_dialog_message">Η κλήση Internet είναι απενεργοποιημένη. Θέλετε να την ενεργοποιήσετε;</string>
-    <string name="ip_prefix_setting">Αριθμός προθήματος IP</string>
-    <string name="ip_prefix_setting_sum">Ρυθμίσεις αριθμού προθήματος IP</string>
-    <string name="enter_ip_prefix_number">Εισαγάγετε αριθμό προθήματος</string>
-    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Πρώτα, εισαγάγετε τον αριθμό προθήματος IP στις ρυθμίσεις φωνητικής κλήσης.</string>
+    <string name="enable_sip_dialog_message">Η κλήση διαδικτύου είναι απενεργοποιημένη. Θέλετε να την ενεργοποιήσετε;</string>
+    <string name="ip_prefix_setting">Αριθμός προθέματος IP</string>
+    <string name="ip_prefix_setting_sum">Ρυθμίσεις αριθμού προθέματος IP</string>
+    <string name="enter_ip_prefix_number">Εισαγάγετε αριθμό προθέματος</string>
+    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Πρώτα, εισαγάγετε τον αριθμό προθέματος IP στις ρυθμίσεις φωνητικής κλήσης.</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Η λειτουργία κλήσης IP δεν εφαρμόζεται σε κλήσεις Ιnternet.</string>
-    <string name="ip_prefix_edit_default_sum">Εισαγάγετε αριθμό προθήματος για κλήση IP</string>
+    <string name="ip_prefix_edit_default_sum">Εισαγάγετε αριθμό προθέματος για κλήση IP</string>
     <string name="vt_cf_call_description">Ρυθμίσεις προώθησης κλήσης βίντεο</string>
     <string name="vt_cb_call_description">Ρυθμίσεις φραγής κλήσης βίντεο</string>
     <string name="vt_addtional_call_description">Ρυθμίσεις αριθμού τηλεφώνου και αναμονής κλήσεων</string>
@@ -302,10 +302,10 @@
     <string name="auto_reject_sum_voice">Ορισμός αποκλεισμού όλων των εισερχομένων φωνητικών κλήσεων απευθείας</string>
     <string name="auto_reject_sum_video">Ορισμός αποκλεισμού όλων των εισερχομένων κλήσεων βίντεο απευθείας</string>
     <string name="auto_reject_sum_sip">Ορισμός αποκλεισμού όλων των εισερχομένων κλήσεων διαδικτύου απευθείας</string>
-    <string name="mo_code_unconditional_cf_active">"Η προώθηση κλήσεων
-χωρίς όρους είναι ενεργοποιημένη"</string>
+    <string name="mo_code_unconditional_cf_active">"Προώθηση κλήσεων
+ενεργοποιημένη χωρίς όρους"</string>
     <string name="mo_code_some_cf_active">"Προώθηση κλήσεων
-χωρίς όρους"</string>
+με όρους"</string>
     <string name="mo_code_call_forwarded">Η κλήση έχει προωθηθεί</string>
     <string name="mo_code_call_is_waiting">Κλήση σε αναμονή</string>
     <string name="mo_code_cug_call">Κλειστή ομάδα χρηστών</string>
@@ -340,14 +340,14 @@
     <string name="pch_data_prefer_message">"Η προτιμώμενη υπηρεσία δεδομένων κινητής τηλεφωνίας χρησιμοποιείται για τη βελτίωση της απόδοσης μετάδοσης δεδομένων στο κόστος της χαμηλότερης χρέωσης λήψης κλήσης. Δεν προτείνεται αυτή η ενέργεια.
 
 Είστε βέβαιοι ότι αποδέχεστε την προτιμώμενη υπηρεσία δεδομένων κινητής τηλεφωνίας;"</string>
-    <string name="manual_select_title">Μη αυτόματη επιλογή</string>
-    <string name="manual_select_dialog_msg">Το κινητό τηλέφωνο δεν θα επιλέξει άλλους παρόχους σε λειτουργία μη αυτόματης επιλογής. Μερικές φορές πρέπει να επαναλάβετε τη μη αυτόματη επιλογή ή να επιστρέψετε στη λειτουργία αυτόματης επιλογής όταν έχετε χάσει την υπηρεσία του επιλεγμένου παρόχου. Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\". Θέλετε να επιλέξετε δίκτυο μη αυτόματα;</string>
-    <string name="no_service_msg_gemini">"Τη συγκεκριμένη στιγμή δεν υπάρχει υπηρεσία από τον επιλεγμένο πάροχο για την κάρτα SIM \" %s\".
-Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\" ή μπορείτε να επιλέξετε άλλον πάροχο μη αυτόματα."</string>
+    <string name="manual_select_title">Χειροκίνητη επιλογή</string>
+    <string name="manual_select_dialog_msg">Το κινητό τηλέφωνο δεν θα επιλέξει άλλους παρόχους για εσάς σε λειτουργία χειροκίνητης επιλογής. Μερικές φορές πρέπει να επαναλάβετε τη χειροκίνητη επιλογή ή να επιστρέψετε στη λειτουργία αυτόματης επιλογής όταν έχετε χάσει την υπηρεσία του επιλεγμένου παρόχου. Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\". Θέλετε να επιλέξετε δίκτυο χειροκίνητα;</string>
+    <string name="no_service_msg_gemini">"Τη συγκεκριμένη στιγμή δεν υπάρχει υπηρεσία από τον επιλεγμένο πάροχο για την κάρτα SIM \"%s\".
+Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\" ή μπορείτε να επιλέξετε άλλον πάροχο χειροκίνητα."</string>
     <string name="no_service_msg">"Τη συγκεκριμένη στιγμή δεν υπάρχει υπηρεσία από τον επιλεγμένο πάροχο.
-Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\" ή μπορείτε να επιλέξετε άλλον πάροχο μη αυτόματα."</string>
+Προτείνεται η χρήση της επιλογής \"Αυτόματη επιλογή\" ή μπορείτε να επιλέξετε άλλον πάροχο χειροκίνητα."</string>
     <string name="show_always_title">Να μην ειδοποιηθώ ξανά</string>
-    <string name="no_service_msg_title_gemini">Δεν υπάρχει υπηρεσία για τον πάροχο\" %s\"</string>
+    <string name="no_service_msg_title_gemini">Δεν υπάρχει υπηρεσία για τον πάροχο \"%s\"</string>
     <string name="no_service_msg_title">Δεν υπάρχει υπηρεσία</string>
     <string name="gemini_data_connection">Σύνδεση δεδομένων</string>
     <string name="plmn_list_setting_title">Προτιμήσεις</string>
@@ -358,7 +358,7 @@
     <string name="international_dialing_select_country">Έχει ανιχνευθεί ότι πραγματοποιείτε διεθνή κλήση. Επιλέξτε τον προορισμό σας.</string>
     <string name="international_dialing_add_country_code" formatted="false">Έχει ανιχνευθεί ότι καλείτε έναν αριθμό στη χώρα %s. Θέλετε να προσθέσετε τον κωδικό χώρας (+%s);</string>
     <string name="international_dialing_add_country_code_and_area_code">Έχει ανιχνευθεί ότι καλείτε έναν αριθμό στην περιοχή %1$s, της χώρας %2$s. Θέλετε να προσθέσετε τον κωδικό χώρας και τον κωδικό περιοχής (+%3$s);</string>
-    <string name="international_dialing_change_country_prefix">"Έχει ανιχνευθεί ότι καλείτε από τη χώρα %s. Να γίνει αλλαγή του προθήματος διεθνούς κλήσης σε '+';"</string>
+    <string name="international_dialing_change_country_prefix">"Έχει ανιχνευθεί ότι καλείτε από τη χώρα %s. Να γίνει αλλαγή του προθέματος διεθνούς κλήσης σε '+';"</string>
     <string name="international_dialing_add_country_code_input_area_code">Έχει ανιχνευθεί ότι καλείτε έναν αριθμό στη χώρα %s. Εάν αυτό ισχύει, εισαγάγετε τον κωδικό περιοχής.</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Έχει ανιχνευθεί ότι καλείτε έναν αριθμό στη χώρα %s. Εάν η πόλη προορισμού δεν είναι η περιοχή %s, εισαγάγετε τον κωδικό περιοχής.</string>
     <string name="international_dialing_need_area_code">Για την κλήση χρειάζεται ο κωδικός περιοχής της πόλης προορισμού.</string>
@@ -410,7 +410,7 @@
     <string name="fake_phone_activity_infoText_text">Εισερχόμενος αριθμός τηλεφώνου</string>
     <string name="fake_phone_activity_placeCall_text">Ψευδής εισερχόμενη κλήση</string>
     <string name="absent_num">ΑΓΝΩΣΤΟΣ</string>
-    <string name="network_setting_all_forbidden_dialog">Δεν υπάρχουν διαθέσιμα δίκτυα. Προσπαθήστε να κάνετε εναλλαγή υπηρεσίας 3G ή κάντε κλικ σε ένα απαγορευμένο δίκτυο για μη αυτόματη εγγραφή.</string>
+    <string name="network_setting_all_forbidden_dialog">Δεν υπάρχουν διαθέσιμα δίκτυα. Προσπαθήστε να κάνετε εναλλαγή υπηρεσίας 3G ή κάντε κλικ σε ένα απαγορευμένο δίκτυο για χειροκίνητη εγγραφή.</string>
     <string name="throttle_status_subtext">"%1$s (%2$d٪) με μέγιστη περίοδο %3$s
 Η επόμενη περίδος ξεκινά σε %4$d ημέρες (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) με μέγιστη περίοδο %3$s</string>
@@ -782,7 +782,7 @@
     <string name="incall_error_supp_service_conference">Αδύνατη η πραγματοποίηση κλήσεων συνδιάσκεψης.</string>
     <string name="incall_error_supp_service_reject">Δεν ήταν δυνατή η απόρριψη της κλήσης.</string>
     <string name="incall_error_supp_service_hangup">Αδύνατη η επαναφορά κλήσης (κλήσεων).</string>
-    <string name="incall_call_type_label_sip">Κλήση Διαδικτύου</string>
+    <string name="incall_call_type_label_sip">Κλήση διαδικτύου</string>
     <string name="emergency_enable_radio_dialog_title">Κλήσεις επείγουσας ανάγκης</string>
     <string name="emergency_enable_radio_dialog_message">Ενεργοποίηση πομπού...</string>
     <string name="emergency_enable_radio_dialog_retry">Εκτός περιοχής κάλυψης, επανάληψη κλήσης...</string>
@@ -847,25 +847,25 @@
     <string name="contactPhoto">φωτογραφία επαφής</string>
     <string name="goPrivate">ιδιωτική χρήση</string>
     <string name="selectContact">επιλογή επαφής</string>
-    <string name="sip_settings">Ρυθμίσεις κλήσεων Διαδικτύου</string>
-    <string name="sip_accounts">Λογαριασμοί κλήσεων μέσω Διαδικτύου (SIP)</string>
+    <string name="sip_settings">Ρυθμίσεις κλήσεων διαδικτύου</string>
+    <string name="sip_accounts">Λογαριασμοί κλήσεων διαδικτύου (SIP)</string>
     <string name="sip_accounts_title">Λογαριασμοί</string>
     <string name="sip_receive_calls">Λήψη εισερχόμενων κλήσεων</string>
     <string name="sip_receive_calls_summary">Μειώνει τη διάρκεια ζωής της μπαταρίας</string>
-    <string name="sip_call_options_title">Χρήση κλήσεων μέσω Διαδικτύου</string>
-    <string name="sip_call_options_wifi_only_title">Κάντε χρήση της κλήσης μέσω Διαδικτύου (μόνο με Wi-Fi)</string>
+    <string name="sip_call_options_title">Χρήση κλήσεων διαδικτύου</string>
+    <string name="sip_call_options_wifi_only_title">Κάντε χρήση της κλήσης διαδικτύου (μόνο με Wi-Fi)</string>
     <string name="sip_call_options_entry_1">Για όλες τις κλήσεις όταν το δίκτυο δεδομένων είναι διαθέσιμο</string>
-    <string name="sip_call_options_entry_2">Μόνο για κλήσεις μέσω Διαδικτύου</string>
-    <string name="sip_call_options_entry_3">Να ερωτώμαι για κάθε κλήση</string>
+    <string name="sip_call_options_entry_2">Μόνο για κλήσεις διαδικτύου</string>
+    <string name="sip_call_options_entry_3">Ερώτηση για κάθε κλήση</string>
     <string name="sip_call_options_wifi_only_entry_1">Για όλες τις κλήσεις</string>
     <string name="pick_outgoing_call_phone_type">Πραγματοποίηση κλήσης</string>
-    <string name="pick_outgoing_sip_phone">Χρήση λογαριασμού κλήσης Διαδικτύου:</string>
+    <string name="pick_outgoing_sip_phone">Χρήση λογαριασμού κλήσης διαδικτύου:</string>
     <string name="remember_my_choice">Να χρησιμοποιείται πάντα για την πραγματοποίηση κλήσεων</string>
-    <string name="reset_my_choice_hint">Μπορείτε να καθορίσετε ποιος λογαριασμός κλήσεων μέσω Διαδικτύου θα χρησιμοποιείται από προεπιλογή από τις επιλογές Τηλέφωνο > Ρυθμίσεις > Ρυθμίσεις κλήσεων μέσω Διαδικτύου > Οθόνη λογαριασμών.</string>
+    <string name="reset_my_choice_hint">Μπορείτε να καθορίσετε ποιος λογαριασμός κλήσεων μέσω διαδικτύου θα χρησιμοποιείται από προεπιλογή από τις επιλογές Τηλέφωνο > Ρυθμίσεις > Ρυθμίσεις κλήσεων διαδικτύου > Οθόνη λογαριασμών.</string>
     <string name="pstn_phone">Κλήση από κινητό τηλέφωνο</string>
-    <string name="internet_phone">Κλήση Διαδικτύου</string>
-    <string name="no_sip_account_found_title">Δεν υπάρχει λογαριασμός κλήσης Διαδικτύου</string>
-    <string name="no_sip_account_found">Δεν υπάρχουν λογαριασμοί κλήσεων Διαδικτύου σε αυτό το τηλέφωνο. Να γίνει άμεση προσθήκη λογαριασμού;</string>
+    <string name="internet_phone">Κλήση διαδικτύου</string>
+    <string name="no_sip_account_found_title">Δεν υπάρχει λογαριασμός κλήσης διαδικτύου</string>
+    <string name="no_sip_account_found">Δεν υπάρχουν λογαριασμοί κλήσεων διαδικτύου σε αυτό το τηλέφωνο. Να γίνει άμεση προσθήκη λογαριασμού;</string>
     <string name="sip_menu_add">Προσθήκη</string>
     <string name="add_sip_account">Προσθήκη λογαριασμού</string>
     <string name="remove_sip_account">Κατάργηση λογαριασμού</string>
