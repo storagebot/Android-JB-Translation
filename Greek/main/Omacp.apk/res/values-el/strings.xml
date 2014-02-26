@@ -37,7 +37,7 @@
     <string name="ds_app_name">Συγχρονισμός δεδομένων</string>
     <string name="imps_app_name">Στιγμιαία ανταλλαγή μηνυμάτων και υπηρεσία παρουσίας</string>
     <string name="installation_report">Αναφορά εγκατάστασης</string>
-    <string name="yes">OK</string>
+    <string name="yes">Εντάξει</string>
     <string name="installing_progress_message">Γίνεται εγκατάσταση...</string>
     <string name="install_timeout_error_msg">Σφάλμα εγκατάστασης.</string>
     <string name="re_install_notify_message">Οι τρέχουσες ρυθμίσεις των εφαρμογών θα αντικατασταθούν, συνέχεια;</string>

@@ -27,7 +27,7 @@
     <string name="launch">Άνοιγμα</string>
     <string name="unknown_apps_dlg_title">Η εγκατάσταση αποκλείστηκε</string>
     <string name="unknown_apps_dlg_text">Για λόγους ασφαλείας, το τηλέφωνό σας έχει ρυθμιστεί να αποκλείει την εγκατάσταση εφαρμογών από άγνωστες πηγές.</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="allow_source_dlg_title">Νέα πηγή για εφαρμογές</string>
     <string name="allow_source_dlg_text">"Η εφαρμογή %1$s θέλει να κάνει εγκατάσταση άλλων εφαρμογών.
@@ -43,7 +43,7 @@
 Όλα τα προηγούμενα δεδομένα χρήστη σας θα αποθηκευτούν."</string>
     <string name="out_of_space_dlg_title">Δεν υπάρχει χώρος</string>
     <string name="out_of_space_dlg_text">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής %1$s. Απελευθερώστε λίγο χώρο και προσπαθήστε ξανά.</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">Εντάξει</string>
     <string name="app_not_found_dlg_title">Δεν βρέθηκε εφαρμογή</string>
     <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα με τις εγκατεστημένες εφαρμογές.</string>
     <string name="uninstall_application_title">Κατάργηση εγκατάστασης εφαρμογής</string>

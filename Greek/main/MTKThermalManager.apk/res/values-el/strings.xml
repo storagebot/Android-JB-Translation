@@ -10,6 +10,6 @@
     <string name="thermal_logger">Καταγραφή θερμοκρασίας</string>
     <string name="alert_dialog_two_buttons_title">Θερμική προειδοποίηση!</string>
     <string name="alert_dialog_two_buttons_message">Το τηλέφωνο σύντομα θα χρειαστεί να κρυώσει λίγο!</string>
-    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_ok">Εντάξει</string>
     <string name="alert_dialog_cancel">Άκυρο</string>
 </resources>

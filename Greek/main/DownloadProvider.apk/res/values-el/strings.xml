@@ -2,7 +2,7 @@
 <resources>
     <string name="download_title">Λήψεις</string>
     <string name="cancel">Άκυρο</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="download_file_already_exist">Το αρχείο υπάρχει ήδη. Αντικατάσταση υπάρχοντος αρχείου;</string>
     <string name="notification_download_complete_op01">Το αρχείο αποθηκεύτηκε στη θέση:</string>
     <string name="app_label">Διαχείριση λήψεων</string>

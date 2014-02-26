@@ -14,7 +14,7 @@
     <string name="external_drop_widget_pick_title">Επιλέξτε γραφικό στοιχείο για να δημιουργήσετε</string>
     <string name="rename_folder_label">Όνομα φακέλου</string>
     <string name="rename_folder_title">Μετονομασία φακέλου</string>
-    <string name="rename_action">OK</string>
+    <string name="rename_action">Εντάξει</string>
     <string name="cancel_action">Άκυρο</string>
     <string name="menu_item_add_item">Προσθήκη στην αρχική οθόνη</string>
     <string name="group_applications">Εφαρμογές</string>

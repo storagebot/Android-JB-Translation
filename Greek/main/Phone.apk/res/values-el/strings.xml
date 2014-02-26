@@ -120,7 +120,7 @@
     <string name="stop_record_vt">Διακοπή εγγραφής</string>
     <string name="sim_manage_indicator_3g">3G</string>
     <string name="simlock_name">Κλείδωμα κάρτας SIM ME</string>
-    <string name="simlock_ok">OK</string>
+    <string name="simlock_ok">Εντάξει</string>
     <string name="simlock_dismiss">Παράβλεψη</string>
     <string name="simlock_retriesleft">"Απομένει: "</string>
     <string name="pin_name">PIN</string>
@@ -449,7 +449,7 @@
     <string name="callFailed_unobtainable_number">Μη έγκυρος αριθμός</string>
     <string name="confCall">Κλήση συνδιάσκεψης</string>
     <string name="call_lost">Αναπάντητη κλήση.</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="mmiStarted">Έναρξη κώδικα MMI</string>
     <string name="ussdRunning">Ο κώδικας USSD εκτελείται...</string>
     <string name="mmiCancelled">Ο κώδικας MMI ακυρώθηκε</string>
@@ -535,7 +535,7 @@
     <string name="fdn_check_failure">Έχει ενεργοποιηθεί η ρύθμιση αριθμών κλήσης καθορισμένων αριθμών της εφαρμογής του τηλεφώνου σας. Γι αυτόν τον λόγο δεν λειτουργούν ορισμένες λειτουργίες που σχετίζονται με τις κλήσεις.</string>
     <string name="fdn_only_error">Οι λειτουργίες επιτρέπονται μόνο για καθορισμένους αριθμούς κλήσης.</string>
     <string name="radio_off_error">Πριν προβάλετε αυτές τις ρυθμίσεις, ενεργοποιήστε τον πομπό.</string>
-    <string name="close_dialog">OK</string>
+    <string name="close_dialog">Εντάξει</string>
     <string name="enable">Ενεργοποίηση</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="change_num">Ενημέρωση</string>
@@ -875,7 +875,7 @@
     <string name="sip_menu_save">Αποθήκευση</string>
     <string name="sip_menu_discard">Απόρριψη</string>
     <string name="alert_dialog_close">Κλείσιμο του προφίλ</string>
-    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_ok">Εντάξει</string>
     <string name="close_profile">Κλείσιμο</string>
     <string name="primary_account_summary_with">Αρχικός λογαριασμός. %s</string>
     <string name="registration_status_checking_status">Έλεγχος κατάστασης...</string>

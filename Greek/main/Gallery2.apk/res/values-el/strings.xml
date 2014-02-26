@@ -216,7 +216,7 @@
     <string name="pref_restore_title">Ρυθμίσεις κάμερας</string>
     <string name="pref_restore_detail">Επαναφορά προεπιλογών</string>
     <string name="pref_exposure_title">Έκθεση</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">Εντάξει</string>
     <string name="spaceIsLow_content">Ο διαθέσιμος χώρος στην κάρτα SD είναι ελάχιστος. Αλλάξτε τη ρύθμιση ποιότητας ή διαγράψτε κάποιες εικόνες ή άλλα αρχεία.</string>
     <string name="video_reach_size_limit">Συμπληρώθηκε το όριο μεγέθους.</string>
     <string name="share_picture_via">Κοινή χρήση εικόνας μέσω</string>
@@ -440,8 +440,8 @@
     <string name="fail_to_load_image">Δεν ήταν δυνατή η φόρτωση της εικόνας</string>
     <string name="no_thumbnail">Δεν υπάρχει μικρογραφία</string>
     <string name="resume_playing_restart">Έναρξη από την αρχή</string>
-    <string name="crop_save_text">OK</string>
-    <string name="ok">OK</string>
+    <string name="crop_save_text">Εντάξει</string>
+    <string name="ok">Εντάξει</string>
     <string name="multiface_crop_help">Αγγίξτε κάποιο πρόσωπο για να ξεκινήσετε.</string>
     <string name="saving_image">Αποθήκευση εικόνας...</string>
     <string name="filtershow_saving_image">Αποθήκευση εικόνας στο λεύκωμα %1$s...</string>

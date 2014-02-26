@@ -6,7 +6,7 @@
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Αποστολή αναφοράς παράδοσης για κάθε εισερχόμενο μήνυμα</string>
     <string name="set_service_center_OK">Ορισμός OK Κέντρου υπηρεσίας SMS</string>
     <string name="set_service_center_fail">Ορισμός αποτυχίας Κέντρου Υπηρεσίας SMS</string>
-    <string name="OK">OK</string>
+    <string name="OK">Εντάξει</string>
     <string name="Cancel">Άκυρο</string>
     <string name="sms_save_location">Θέση αποθήκευσης SMS</string>
     <string name="gemini_3g_indic">3G</string>
@@ -100,7 +100,7 @@
     <string name="cb_read_message2">Ανάγνωση μηνύματος εκπομπής κυψέλης</string>
     <string name="cb_message">Μήνυμα εκπομπής κυψέλης</string>
     <string name="cb_default_channel_name">Από κανάλι</string>
-    <string name="message_open_email_fail">Αρχικά ορίστε το email σας.</string>
+    <string name="message_open_email_fail">Αρχικά ορίστε το ηλεκτρονικό ταχυδρομείο σας.</string>
     <string name="add_contacts">Επαφές</string>
     <string name="me">Για εμένα</string>
     <string name="send_by_sim2">Έχει σταλεί από SIM2</string>
@@ -124,7 +124,7 @@
     <string name="menu_insert_text_vcard">Εισαγωγή επαφής</string>
     <string name="contact_name">Όνομα</string>
     <string name="contact_tel">Τηλ</string>
-    <string name="contact_email">email</string>
+    <string name="contact_email">E-mail</string>
     <string name="contact_organization">Εταιρεία</string>
     <string name="contact_address">Διεύθ</string>
     <string name="max_recipients_title">Συμπληρώθηκε ο μέγιστος αριθμός</string>
@@ -417,15 +417,15 @@
     <string name="pref_title_display_preference_settings">ΟΘΟΝΗ &amp; ΠΡΟΤΙΜΗΣΕΙΣ</string>
     <string name="pref_chat_wallpaper">Ταπετσαρία συνομιλίας</string>
     <string name="pref_auto_rotation">Αυτόματη περιστροφή</string>
-    <string name="pref_show_email_address">Εμφάνιση διεύθυνσης email</string>
-    <string name="pref_summary_show_email_address">Συμπερίληψη διεύθυνσης email στα αποτελέσματα επαφών</string>
-    <string name="pref_title_backup_restore_settings">ΑΝΤΙΓΡΑΦΟ ΑΣΦΑΛΕΙΑΣ &amp; ΕΠΑΝΑΦΟΡΑ</string>
+    <string name="pref_show_email_address">Εμφάνιση διεύθυνσης ηλεκτρονικού ταχυδρομείου</string>
+    <string name="pref_summary_show_email_address">Συμπερίληψη διεύθυνσης ηλεκτρονικού ταχυδρομείου στα αποτελέσματα επαφών</string>
+    <string name="pref_title_backup_restore_settings">ΑΝΤΙΓΡΑΦΟ ΑΣΦΑΛΕΙΑΣ ΚΑΙ ΕΠΑΝΑΦΟΡΑ</string>
     <string name="pref_backage_message">Δημιουργία αντιγράφου ασφαλείας του μηνύματος</string>
     <string name="pref_summary_backup_message">Τελευταία δημιουργία αντιγράφου ασφαλείας: Ποτέ</string>
     <string name="pref_restore_message">Επαναφορά μηνύματος</string>
     <string name="pref_summary_restore_message">Επαναφορά αντιγράφων ασφαλείας των μηνυμάτων σας</string>
     <string name="pref_mute">Σίγαση</string>
-    <string name="pref_summary_mute">απενεργοποιημένη</string>
+    <string name="pref_summary_mute">Ανενεργό</string>
     <string name="pref_vibrate">Δόνηση</string>
     <string name="pref_summary_vibrate">Δόνηση κατά τη λήψη ειδοποιήσεων</string>
     <string name="pref_popup_notification">Αναδυόμενη ειδοποίηση</string>
@@ -434,8 +434,8 @@
     <string name="pref_title_actions_settings">Ενέργειες</string>
     <string name="pref_download_chat_history">Λήψη ιστορικού συνομιλιών</string>
     <string name="pref_summary_download_chat_history">Αποθήκευση στην κάρτα SD σε μορφή zip</string>
-    <string name="pref_email_chat_history">Ιστορικό συνομιλιών email</string>
-    <string name="pref_summary_email_chat_history">Ιστορικό συνομιλιών email σε μορφή zip</string>
+    <string name="pref_email_chat_history">Ιστορικό συνομιλιών ηλεκτρονικού ταχυδρομείου</string>
+    <string name="pref_summary_email_chat_history">Ιστορικό συνομιλιών ηλεκτρονικού ταχυδρομείου σε μορφή zip</string>
     <string name="pref_clear_chat_history">Εκκαθάριση ιστορικού συνομιλιών</string>
     <string name="pref_summary_notification_ringtone">Ορισμός ήχου κλήσης για νέες ειδοποιήσεις</string>
     <string name="pref_setting_title">Ρύθμιση μηνύματος</string>
@@ -450,10 +450,10 @@
     <string name="chat_setting_sending">αποστολή...</string>
     <string name="dialog_save_title">Αποθήκευση σε κάρτα SD</string>
     <string name="dialog_save_description">Αποθήκευση αυτού του νήματος συνομιλίας στην κάρτα SD με μορφή zip</string>
-    <string name="dialog_email_title">Κοινή χρήση μέσω email</string>
-    <string name="dialog_email_description">Κοινή χρήση αυτού του νήματος συνομιλίας ως συνημμένου μέσω email σε μορφή zip</string>
+    <string name="dialog_email_title">Κοινή χρήση μέσω ηλεκτρονικού ταχυδρομείου</string>
+    <string name="dialog_email_description">Κοινή χρήση αυτού του νήματος συνομιλίας ως συνημμένου μέσω ηλεκτρονικού ταχυδρομείου με μορφή zip</string>
     <string name="dialog_clear_title">Εκκαθάριση</string>
-    <string name="dialog_clear_description">Ολόκληρο το ιστορικό συνομιλιών σε αυτήν την αίθουσα συνομιλιών θα εκκαθαριστεί</string>
+    <string name="dialog_clear_description">Όλο το ιστορικό συνομιλιών σε αυτό το δωμάτιο συνομιλιών θα εκκαθαριστεί</string>
     <string name="dialog_wallpaper_chooser_wallpapers">Ταπετσαρίες</string>
     <string name="dialog_wallpaper_chooser_gallery">Συλλογή</string>
     <string name="dialog_wallpaper_chooser_take">Λήψη φωτογραφίας</string>
@@ -462,15 +462,15 @@
     <string name="mute_one_hour">1 ώρα</string>
     <string name="mute_four_hours">4 ώρες</string>
     <string name="mute_eight_hours">8 ώρες</string>
-    <string name="save_chat_history_failed">Η αποθήκευση απέτυχε</string>
-    <string name="send_chat_history_failed">Το email απέτυχε</string>
+    <string name="save_chat_history_failed">η αποθήκευση απέτυχε</string>
+    <string name="send_chat_history_failed">η αποστολή ηλεκτρονικού ταχυδρομείου απέτυχε</string>
     <string name="actionbar_sms_setting">Ρυθμίσεις SMS</string>
     <string name="actionbar_mms_setting">Ρυθμίσεις MMS</string>
     <string name="actionbar_notification_setting">Ρυθμίσεις ειδοποιήσεων</string>
     <string name="actionbar_general_setting">Γενικές ρυθμίσεις</string>
     <string name="save_history_file">αποθήκευση ως</string>
     <string name="no_sdcard_suggestion">Δεν υπάρχει κάρτα SD</string>
-    <string name="save_wallpaper_success">Η ταπετσαρία έχει αλλάξει.</string>
+    <string name="save_wallpaper_success">Η ταπετσαρία άλλαξε.</string>
     <string name="save_wallpaper_fail">Δεν ήταν δυνατή η αλλαγή ταπετσαρίας.</string>
     <string name="str_ipmsg_emo_normal">Προεπιλογή</string>
     <string name="str_ipmsg_emo_large">Μεγάλο</string>
@@ -679,7 +679,7 @@
     <string name="menu_view_contact">Προβολή επαφής</string>
     <string name="menu_add_to_contacts">Προσθήκη στις επαφές</string>
     <string name="hidden_sender_address">Διεύθυνση κρυφού αποστολέα</string>
-    <string name="yes">OK</string>
+    <string name="yes">Εντάξει</string>
     <string name="no">Άκυρο</string>
     <string name="set">Ορισμός</string>
     <string name="play">Αναπαραγωγή</string>
@@ -803,7 +803,7 @@
     <string name="save_ringtone">Αποθήκευση ως ήχος κλήσης</string>
     <string name="saved_ringtone">Ο ήχος κλήσης αποθηκεύτηκε</string>
     <string name="saved_ringtone_fail">Απέτυχε η αποθήκευση ήχου κλήσης</string>
-    <string name="menu_insert_smiley">Εισαγωγή εικόνας smiley</string>
+    <string name="menu_insert_smiley">Εισαγωγή φατσούλας</string>
     <string name="select_link_title">Επιλογή ενέργειας</string>
     <string name="slide_number">Διαφάνεια %s</string>
     <string name="delivery_report_activity">Αναφορά παράδοσης</string>
@@ -881,6 +881,6 @@
     <string name="signature_text_switch_title">Ανοιχτή υπογραφή</string>
     <string name="signature_text_switch_summary">Αποστολή μηνύματος για εμφάνιση της υπογραφή σας</string>
     <string name="more_string">+%1$s</string>
-    <string name="copy_email">Αντιγραφή διεύθυνσης email</string>
+    <string name="copy_email">Αντιγραφή διεύθυνσης ηλεκτρονικού ταχυδρομείου</string>
     <string name="copy_number">Αντιγραφή αριθμού τηλεφώνου</string>
 </resources>

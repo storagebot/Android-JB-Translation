@@ -2,7 +2,7 @@
 <resources>
     <string name="error_title">Σφάλμα</string>
     <string name="no_market_app">Η εφαρμογή αγορών δεν έχει εγκατασταθεί.</string>
-    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_ok">Εντάξει</string>
     <string name="app_name">Pico TTS</string>
     <string name="eng_usa_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα αγγλικά με Pico.</string>
     <string name="eng_gbr_sample">Αυτό είναι ένα παράδειγμα της σύνθεσης ομιλίας στα αγγλικά με Pico.</string>

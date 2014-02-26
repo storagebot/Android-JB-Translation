@@ -10,16 +10,16 @@
     <string name="httpErrorBadUrl">Δεν ήταν δυνατό το άνοιγμα της σελίδας διότι η διεύθυνση URL δεν είναι έγκυρη.</string>
     <string name="httpErrorUnsupportedScheme">Το πρωτόκολλο δεν υποστηρίζεται.</string>
     <string name="no">Άκυρο</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="paste">Επικόλληση</string>
     <string name="search_go">Αναζήτηση</string>
     <string name="selectAll">Επιλογή όλων</string>
     <string name="unknownName">(Άγνωστο)</string>
     <string name="untitled">&lt;Χωρίς τίτλο></string>
-    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_button">Εντάξει</string>
     <string name="VideoView_error_text_unknown">Δεν μπορείτε να αναπαράγετε αυτό το βίντεο.</string>
     <string name="VideoView_error_title">Πρόβλημα με το βίντεο</string>
-    <string name="yes">OK</string>
+    <string name="yes">Εντάξει</string>
     <string name="dialog_alert_title">Προσοχή</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτή τη συσκευή.</string>
     <string name="selectTextMode">Επιλογή κειμένου</string>
@@ -192,7 +192,7 @@
     <string name="cfTemplateRegisteredTime">{0}: Δεν προωθήθηκε</string>
     <string name="fcComplete">Ο κωδικός λειτουργίας ολοκληρώθηκε.</string>
     <string name="fcError">Πρόβλημα σύνδεσης ή μη έγκυρος κώδικας δυνατότητας.</string>
-    <string name="httpErrorOk">OK</string>
+    <string name="httpErrorOk">Εντάξει</string>
     <string name="httpError">Παρουσιάστηκε σφάλμα δικτύου.</string>
     <string name="httpErrorLookup">Δεν ήταν δυνατή η εύρεση της διεύθυνσης URL.</string>
     <string name="httpErrorUnsupportedAuthScheme">Το πλάνο ελέγχου ταυτότητας ιστοτόπου δεν υποστηρίζεται.</string>
@@ -849,7 +849,7 @@
 
 %s
 
-Αγγίξτε το στοιχείο \"OK\" για συνέχεια ή \"Άκυρο\" για παραμονή στην τρέχουσα σελίδα."</string>
+Αγγίξτε το \"Εντάξει\" για συνέχεια ή το \"Άκυρο\" για παραμονή στην τρέχουσα σελίδα."</string>
     <string name="save_password_label">Επιβεβαίωση</string>
     <string name="double_tap_toast">Συμβουλή: Πατήστε δύο φορές για μεγέθυνση και σμίκρυνση.</string>
     <string name="autofill_this_form">Αυτόματη συμπλήρωση</string>
@@ -1007,7 +1007,7 @@
     <string name="anr_process">"Η διεργασία %1$s δεν ανταποκρίνεται.
 
 Θέλετε να την κλείσετε;"</string>
-    <string name="force_close">OK</string>
+    <string name="force_close">Εντάξει</string>
     <string name="report">Αναφορά</string>
     <string name="wait">Αναμονή</string>
     <string name="webpage_unresponsive">"Η σελίδα δεν ανταποκρίνεται πια.
@@ -1117,7 +1117,7 @@
     <string name="dlg_confirm_kill_storage_users_title">Ενεργοποίηση αποθηκευτικού χώρου USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Εάν ενεργοποιήσετε τον χώρο αποθήκευσης USB, ορισμένες από τις εφαρμογές που χρησιμοποιείτε θα σταματήσουν και ενδέχεται να μην είναι διαθέσιμες μέχρι να απενεργοποιήσετε τον χώρο αποθήκευσης USB.</string>
     <string name="dlg_error_title">Λειτουργία USB ανεπιτυχής</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">Εντάξει</string>
     <string name="usb_mtp_notification_title">Συνδεδεμένο ως συσκευή πολυμέσων</string>
     <string name="usb_ptp_notification_title">Συνδεδεμένο ως φωτογραφική μηχανή</string>
     <string name="usb_cd_installer_notification_title">Συνδεδεμένο ως πρόγραμμα εγκατάστασης</string>
@@ -1138,7 +1138,7 @@
     <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
     <string name="candidates_style"><u>υποψήφιοι</u></string>
-    <string name="ext_media_checking_notification_title">Προετοιμασία του %s</string>
+    <string name="ext_media_checking_notification_title">Προετοιμασία %s</string>
     <string name="ext_media_checking_notification_message">Έλεγχος για σφάλματα.</string>
     <string name="ext_media_nofs_notification_title">Κενό %s</string>
     <string name="ext_media_nofs_notification_message">Το %s είναι κενό ή είναι μη υποστηριζόμενο σύστημα αρχείων.</string>

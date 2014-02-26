@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Υπηρεσία σύνδεσης κινητού</string>
-    <string name="button_ok">OK</string>
+    <string name="button_ok">Εντάξει</string>
     <string name="button_cancel">Άκυρο</string>
     <string name="confirm_radio_title">Η κάρτα SIM είναι απενεργοποιημένη</string>
     <string name="confirm_radio_msg">Το %1$s έχει τώρα απενεργοποιηθεί. Θέλετε να ενεργοποιήσετε αυτή την κάρτα SIM;</string>

@@ -56,7 +56,7 @@
     <string name="duplicate_site_navigation_url">Αυτή η διεύθυνση URL υπήρχε ήδη.</string>
     <string name="max_input_browser_search">Συμπληρώθηκε το μέγιστο όριο των εισαγωγών σας.</string>
     <string name="max_input_browser_search_title">Όριο εισαγωγής</string>
-    <string name="max_input_browser_search_button">OK</string>
+    <string name="max_input_browser_search_button">Εντάξει</string>
     <string name="bookmarks_history">Σελιδοδείκτες/Ιστορικό</string>
     <string name="save_bookmark">Αποθήκευση σελιδοδείκτη</string>
     <string name="sms_received">Από %s μήνυμα</string>
@@ -86,7 +86,7 @@
     <string name="action">Σύνδεση</string>
     <string name="bookmarks_search">Διαδίκτυο</string>
     <string name="cancel">Άκυρο</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="title_bar_loading">Φόρτωση...</string>
     <string name="page_info">Πληροφορίες σελίδας</string>
     <string name="page_info_view">Προβολή πληροφοριών σελίδας</string>
@@ -108,7 +108,7 @@
     <string name="reload">Ανανέωση</string>
     <string name="back">Πίσω</string>
     <string name="forward">Εμπρός</string>
-    <string name="save">OK</string>
+    <string name="save">Εντάξει</string>
     <string name="do_not_save">Άκυρο</string>
     <string name="location">Διεύθυνση</string>
     <string name="account">Λογαριασμός</string>
@@ -352,7 +352,7 @@
     <string name="webstorage_outofspace_notification_text">Αγγίξτε για να αποδεσμεύσετε χώρο.</string>
     <string name="webstorage_clear_data_title">Εκκαθάριση αποθηκευμένων δεδομένων</string>
     <string name="webstorage_clear_data_dialog_message">Να διαγραφούν όλα τα δεδομένα που έχουν αποθηκευτεί σε αυτόν τον ιστότοπο;</string>
-    <string name="webstorage_clear_data_dialog_ok_button">OK</string>
+    <string name="webstorage_clear_data_dialog_ok_button">Εντάξει</string>
     <string name="webstorage_clear_data_dialog_cancel_button">Άκυρο</string>
     <string name="webstorage_origin_summary_mb_stored">MB αποθηκευμένα στο τηλέφωνό σας</string>
     <string name="loading_video">Φόρτωση βίντεο...</string>
@@ -366,11 +366,11 @@
     <string name="geolocation_settings_page_summary_allowed">Αυτήν τη στιγμή, αυτός ο ιστότοπος έχει πρόσβαση στην τοποθεσία σας</string>
     <string name="geolocation_settings_page_summary_not_allowed">Δεν είναι δυνατή η πρόσβαση στην τοποθεσία σας από αυτόν τον ιστότοπο</string>
     <string name="geolocation_settings_page_dialog_message">Να διαγραφεί η πρόσβαση στην τοποθεσία για αυτόν τον ιστότοπο;</string>
-    <string name="geolocation_settings_page_dialog_ok_button">OK</string>
+    <string name="geolocation_settings_page_dialog_ok_button">Εντάξει</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Άκυρο</string>
     <string name="website_settings_clear_all">Εκκαθάριση όλων</string>
     <string name="website_settings_clear_all_dialog_message">Να διαγραφούν όλα τα δεδομένα ιστότοπου και τα δικαιώματα τοποθεσίας;</string>
-    <string name="website_settings_clear_all_dialog_ok_button">OK</string>
+    <string name="website_settings_clear_all_dialog_ok_button">Εντάξει</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Άκυρο</string>
     <string name="progress_dialog_setting_wallpaper">Ορισμός ταπετσαρίας...</string>
     <string name="error_console_header_text_minimized">Εμφάνιση κονσόλας JavaScript</string>

@@ -14,7 +14,7 @@
     <string name="dlg_noantenna_title">Συνδέστε τα ακουστικά</string>
     <string name="btn_yes">Ναι</string>
     <string name="btn_no">Όχι</string>
-    <string name="btn_ok">OK</string>
+    <string name="btn_ok">Εντάξει</string>
     <string name="btn_cancel">Άκυρο</string>
     <string name="dlg_progress_title">Σάρωση</string>
     <string name="dlg_progress_text">Σάρωση καναλιών...</string>

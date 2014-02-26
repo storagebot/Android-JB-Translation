@@ -21,7 +21,7 @@
     <string name="operator_failed">Η λειτουργία απέτυχε</string>
     <string name="back_title">Σημείωση</string>
     <string name="back_message">Θέλετε να εγκαταλείψετε την τρέχουσα επεξεργασία;</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="add_new_todo">Νέα εκκρεμής εργασία</string>
     <string name="edit_todo">Επεξεργασία εκκρεμούς εργασίας</string>
     <string name="todo_detail">Λεπτομέρεια εκκρεμούς εργασίας</string>

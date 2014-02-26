@@ -26,7 +26,7 @@
     <string name="delete_artist_desc">Όλα τα τραγούδια του καλλιτέχνη %s θα διαγραφούν.</string>
     <string name="delete_album_desc">Ολόκληρο το άλμπουμ \"%s\" θα διαγραφεί.</string>
     <string name="delete_song_desc">Το κομμάτι \"%s\" θα διαγραφεί.</string>
-    <string name="delete_confirm_button_text">OK</string>
+    <string name="delete_confirm_button_text">Εντάξει</string>
     <string name="scanning">Σάρωση κάρτας SD...</string>
     <string name="scanning_nosdcard">Σάρωση αποθηκευτικού χώρου USB...</string>
     <string name="nowplaying_title">Αναπαραγωγή σε εξέλιξη</string>
@@ -81,7 +81,7 @@
     <string name="create_playlist_overwrite_text">Αντικατάσταση</string>
     <string name="service_start_error_title">Πρόβλημα αναπαραγωγής</string>
     <string name="service_start_error_msg">Δεν ήταν δυνατή η αναπαραγωγή του τραγουδιού.</string>
-    <string name="service_start_error_button">OK</string>
+    <string name="service_start_error_button">Εντάξει</string>
     <string name="weekpicker_set">Τέλος</string>
     <string name="weekpicker_title">Ρύθμιση ώρας</string>
     <string name="save_as_playlist">Αποθήκευση ως λίστα αναπαραγωγής</string>
@@ -95,7 +95,7 @@
     <string name="cancel">Άκυρο</string>
     <string name="remove_from_playlist">Κατάργηση από τη λίστα αναπαραγωγής</string>
     <string name="streamloadingtext">Σύνδεση σε %s...</string>
-    <string name="mediasearch">Αναζήτηση του όρου \"%s\" με χρήση:</string>
+    <string name="mediasearch">Αναζήτηση του %s με χρήση:</string>
     <string name="working_artists">Καλλιτέχνες...</string>
     <string name="working_albums">Άλμπουμ...</string>
     <string name="working_songs">Τραγούδια...</string>
@@ -107,17 +107,27 @@
     <string name="music_picker_title">Επιλέξτε μουσικό κομμάτι</string>
     <string name="search_settings_description">Καλλιτέχνες, άλμπουμ και τραγούδια</string>
     <string name="search_hint">Αναζήτηση μουσικής</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"</string>
     <string name="widget_initial_text">Αγγίξτε για να επιλέξετε μουσική.</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="delete_artist_desc_nosdcard">Οριστική διαγραφή όλων των τραγουδιών του %s από τον χώρο αποθήκευσης USB;</string>
     <string name="delete_album_desc_nosdcard">Οριστική διαγραφή ολόκληρου του λευκώματος \"%s\" από τον χώρο αποθήκευσης USB;</string>
     <string name="delete_song_desc_nosdcard">Οριστική διαγραφή τού \"%s\" από τον χώρο αποθήκευσης USB;</string>
     <string name="sdcard_missing_title_nosdcard">Δεν υπάρχει αποθηκευτικός χώρος USB</string>
     <string name="sdcard_busy_title_nosdcard">Ο αποθηκευτικός χώρος USB δεν είναι διαθέσιμος</string>
-    <string name="sdcard_busy_message_nosdcard">Λυπούμαστε, ο αποθηκευτικός χώρος USB χρησιμοποιείται.</string>
+    <string name="sdcard_busy_message_nosdcard">ο αποθηκευτικός χώρος USB χρησιμοποιείται.</string>
     <string name="sdcard_error_title_nosdcard">Σφάλμα αποθηκευτικού χώρου USB</string>
     <string name="sdcard_error_message_nosdcard">Προέκυψε σφάλμα στον αποθηκευτικό σας χώρο USB.</string>
     <string name="effectspanel">Ηχητικά εφέ</string>
+    <string name="albumsongseparator">"
+"</string>
     <string name="notification_artist_album">"%2$s
 %1$s"</string>
+    <string name="setoptions">ορισμός ως ήχος κλήσης</string>
+    <string name="ringtone">Ήχος κλήσης τηλεφώνου</string>
+    <string name="notice_ringtone">Ήχος κλήσης ειδοποίησης</string>
+    <string name="ringtone_menu_notice">Χρήση ως ήχο κλήσης ειδοποίησης</string>
+    <string name="ringtone_set_notice">\"%s\" ορισμός ως ήχος κλήσης ειδοποίησης.</string>
+    <string name="cut_ringtone">Αποκοπή ήχου κλήσης</string>
 </resources>

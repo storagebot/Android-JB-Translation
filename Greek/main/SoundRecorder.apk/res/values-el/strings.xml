@@ -10,7 +10,7 @@
     <string name="three_mins_avail_total">3 λεπτά διαθέσιμα συνολικά</string>
     <string name="alert_delete_multiple">Αυτά τα στοιχεία θα διαγραφούν</string>
     <string name="alert_delete_single">Αυτό το στοιχείο θα διαγραφεί</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="delete">Διαγραφή</string>
     <string name="deleting">Διαγράφεται</string>
     <string name="no_recording_file">(Δεν υπάρχει αρχείο εγγραφής)</string>
@@ -50,7 +50,7 @@
     <string name="sec_available">%d δευτ. διαθέσιμα</string>
     <string name="accept">Τέλος</string>
     <string name="discard">Απόρριψη</string>
-    <string name="button_ok">OK</string>
+    <string name="button_ok">Εντάξει</string>
     <string name="audio_db_album_name">Εγγραφές ήχου</string>
     <string name="audio_db_playlist_name">Οι εγγραφές μου</string>
     <string name="error_sdcard_access">Δεν είναι δυνατή η πρόσβαση στην κάρτα SD.</string>

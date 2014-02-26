@@ -63,7 +63,7 @@
     <string name="file_exists">Το αρχείο δεν υπάρχει ή έχει διαγραφεί</string>
     <string name="alert_title_success">Επιτυχία</string>
     <string name="alert_title_failure">Σφάλμα</string>
-    <string name="alert_ok_button">OK</string>
+    <string name="alert_ok_button">Εντάξει</string>
     <string name="alert_yes_button">Ναι, παρακαλώ!</string>
     <string name="alert_no_button">Όχι, ευχαριστώ.</string>
     <string name="save_success_message">Αποθηκεύτηκε!</string>

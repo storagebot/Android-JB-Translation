@@ -10,7 +10,7 @@
     <string name="password">Κωδικός πρόσβασης</string>
     <string name="action">Είσοδος</string>
     <string name="cancel">Άκυρο</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="confirm_oma_download_title">Επιβεβαίωση λήψης;</string>
     <string name="oma_download_name">Όνομα:</string>
     <string name="oma_download_vendor">Προμηθευτής:</string>

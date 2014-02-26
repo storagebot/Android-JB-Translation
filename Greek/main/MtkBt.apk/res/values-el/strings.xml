@@ -103,7 +103,7 @@
     <string name="bluetooth_pbap_server_authorize_notify_message">Επιλέξτε για να επιτρέπεται η σύνδεση στο PBAP</string>
     <string name="bluetooth_pbap_server_authorize_title">Εξουσιοδότηση PBAP μέσω Bluetooth</string>
     <string name="bluetooth_pbap_server_auth_passcode">Κωδικός πρόσβασης</string>
-    <string name="bluetooth_pbap_server_auth_ok">OK</string>
+    <string name="bluetooth_pbap_server_auth_ok">Εντάξει</string>
     <string name="bluetooth_pbap_server_auth_cancel">Άκυρο</string>
     <string name="bluetooth_pbap_server_authorize_allow">Αποδοχή</string>
     <string name="bluetooth_pbap_server_authorize_notify_title">Αίτημα εξουσιοδότησης PBAP μέσω Bluetooth</string>
@@ -133,5 +133,5 @@
     <string name="bt_share_openfile_message_invalid_param">Μη έγκυρο αρχείο: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Μη υποστηριζόμενος τύπος αρχείου: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Το αρχείο δεν βρέθηκε: %1$s</string>
-    <string name="bt_share_openfile_confirm">OK</string>
+    <string name="bt_share_openfile_confirm">Εντάξει</string>
 </resources>

@@ -12,7 +12,7 @@
     <string name="VideoScene_error_media_not_found">Το αρχείο πολυμέσων δεν υπάρχει τώρα</string>
     <string name="VideoScene_error_be_set">Συγνώμη, το βίντεο δεν μπορεί να οριστεί ως ταπετσαρία βίντεο</string>
     <string name="VideoEditor_error_title">Δεν είναι δυνατή η αναπαραγωγή βίντεο</string>
-    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_button">Εντάξει</string>
     <string name="VideoEditor_error_no_video_selected">Δεν έχει επιλεγεί βίντεο</string>
     <string name="VideoEditor_warning_limited_duration">Παρακαλώ επιλέξτε τουλάχιστον 1 δευτ. βίντεο για αναπαραγωγή</string>
     <string name="VideoScene_reload_after_mount">Φόρτωση βίντεο από κάρτα SD, παρακαλώ περιμένετε ένα λεπτό.</string>

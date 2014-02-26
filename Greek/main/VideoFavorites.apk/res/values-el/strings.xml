@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Αγαπημένα βίντεο</string>
-    <string name="ok">OK</string>
+    <string name="ok">Εντάξει</string>
     <string name="cancel">Άκυρο</string>
     <string name="delete_dialog_title">Διαγραφή αγαπημένου</string>
     <string name="delete_dialog_prompt">Διαγραφή %1$s από γραφικό στοιχείο;</string>

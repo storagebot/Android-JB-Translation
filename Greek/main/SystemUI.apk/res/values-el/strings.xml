@@ -41,7 +41,7 @@
     <string name="builtin_installer_always_allowed">Να μην εμφανιστεί την επόμενη φορά</string>
     <string name="dlg_no">ΟΧΙ</string>
     <string name="dlg_yes">ΝΑΙ</string>
-    <string name="OK">OK</string>
+    <string name="OK">ΕΝΤΑΞΕΙ</string>
     <string name="application_guide_title">Εναλλαγή της προεπιλεγμένης κάρτας SIM</string>
     <string name="application_guide_content">Κύλιση προς τα κάτω στη λίστα ειδοποιήσεων για εναλλαγή της προεπιλεγμένης κάρτας SIM</string>
     <string name="data_usage">Χρήση δεδομένων</string>

@@ -19,7 +19,7 @@
     <string name="warning">Προειδοποίηση</string>
     <string name="cancel_backup_confirm">Ακύρωση αντιγράφου ασφαλείας;</string>
     <string name="cancelling">Ακυρώνεται</string>
-    <string name="btn_ok">OK</string>
+    <string name="btn_ok">Εντάξει</string>
     <string name="bt_yes">Ναι</string>
     <string name="bt_no">Όχι</string>
     <string name="menu_delete">Διαγραφή</string>
