@@ -726,8 +726,8 @@
     <string name="date_time_set_timezone">Επιλογή ζώνης ώρας</string>
     <string name="date_time_set_date">Ορισμός ημερομηνίας</string>
     <string name="date_time_date_format">Επιλογή μορφής ημερομηνίας</string>
-    <string name="zone_list_menu_sort_alphabetically">Ταξινόμηση με βάση αλφαβητική σειρά</string>
-    <string name="zone_list_menu_sort_by_timezone">Ταξινόμηση με βάση ζώνη ώρας</string>
+    <string name="zone_list_menu_sort_alphabetically">Ταξινόμηση κατά αλφαβητική σειρά</string>
+    <string name="zone_list_menu_sort_by_timezone">Ταξινόμηση κατά ζώνη ώρας</string>
     <string name="date_picker_title">Ημερομηνία</string>
     <string name="time_picker_title">Ώρα</string>
     <string name="biometric_weak_improve_matching_title">Βελτίωση αντιστοίχισης προσώπων</string>
@@ -1239,7 +1239,7 @@
     <string name="status_awake_time">Χρόνος αφύπνισης</string>
     <string name="internal_memory">Εσωτερικός αποθηκευτικός χώρος</string>
     <string name="sd_memory">Κάρτα SD</string>
-    <string name="memory_available">Διαθέσιμο</string>
+    <string name="memory_available">Διαθέσιμος</string>
     <string name="memory_available_read_only">Διαθέσιμος (μόνος για ανάγνωση)</string>
     <string name="memory_size">Συνολικός χώρος</string>
     <string name="memory_calculating_size">Υπολογισμός...</string>
@@ -1478,9 +1478,9 @@
     <string name="controls_label">Στοιχεία ελέγχου</string>
     <string name="force_stop">Αναγκαστική διακοπή</string>
     <string name="total_size_label">Σύνολο</string>
-    <string name="application_size_label">Εφαρμογή</string>
+    <string name="application_size_label">" Εφαρμογή"</string>
     <string name="external_code_size_label">Εφαρμογή χώρου αποθήκευσης USB</string>
-    <string name="data_size_label">Δεδομένα</string>
+    <string name="data_size_label">" Δεδομένα"</string>
     <string name="external_data_size_label">Κάρτα SD</string>
     <string name="uninstall_text">Κατάργηση εγκατάστασης</string>
     <string name="uninstall_all_users_text">Κατάργηση εγκατάστασης για όλους τους χρήστες</string>
@@ -1519,7 +1519,7 @@
     <string name="filter_apps_third_party">Ληφθείσες</string>
     <string name="filter_apps_running">Εκτελούνται</string>
     <string name="filter_apps_onsdcard">Στην κάρτα SD</string>
-    <string name="disabled">Απενεργοποιημένο</string>
+    <string name="disabled">Απενεργοποιημένη</string>
     <string name="not_installed">Δεν έχει εγκατασταθεί</string>
     <string name="no_applications">Δεν υπάρχουν εφαρμογές.</string>
     <string name="internal_storage">Εσωτερικός αποθηκευτικός χώρος</string>
@@ -1531,7 +1531,7 @@
     <string name="dlg_cancel">Άκυρο</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα με τις εγκατεστημένες εφαρμογές.</string>
-    <string name="clear_data_failed">Δεν ήταν δυνατή η απαλοιφή των δεδομένων εφαρμογής.</string>
+    <string name="clear_data_failed">Δεν ήταν δυνατή η εκκαθάριση των δεδομένων εφαρμογής.</string>
     <string name="app_factory_reset_dlg_title">Κατάργηση εγκατάστασης ενημερώσεων;</string>
     <string name="app_factory_reset_dlg_text">Θα καταργηθεί η εγκατάσταση όλων των ενημερώσεων σε αυτήν την εφαρμογή συστήματος Android.</string>
     <string name="clear_failed_dlg_title">Εκκαθάριση δεδομένων</string>
@@ -1717,7 +1717,7 @@
     <string name="battery_history_seconds">%1$dδ</string>
     <string name="usage_stats_label">Στατιστικά χρήσης</string>
     <string name="testing_usage_stats">Στατιστικά χρήσης</string>
-    <string name="display_order_text">Ταξινόμηση με:</string>
+    <string name="display_order_text">Ταξινόμηση κατά:</string>
     <string name="app_name_label">Εφαρμογή</string>
     <string name="launch_count_label">Καταμέτρηση</string>
     <string name="usage_time_label">Χρόνος χρήσης</string>
