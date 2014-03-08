@@ -207,7 +207,7 @@
     <string name="start_dreams">Daydream</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="quick_settings_airplane_mode_label">Λειτουργία πτήσης</string>
-    <string name="quick_settings_battery_charging_label">Φόρτιση, %d%%</string>
+    <string name="quick_settings_battery_charging_label">Φορτίζει, %d%%</string>
     <string name="quick_settings_battery_charged_label">Φορτίστηκε</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d συσκευές)</string>

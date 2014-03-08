@@ -753,7 +753,7 @@
     <string name="lockscreen_pattern_wrong">Προσπαθήστε ξανά</string>
     <string name="lockscreen_password_wrong">Προσπαθήστε ξανά</string>
     <string name="faceunlock_multiple_failures">Έγινε υπέρβαση του μέγιστου αριθμού προσπαθειών Face Unlock</string>
-    <string name="lockscreen_plugged_in">Φόρτιση %d%%</string>
+    <string name="lockscreen_plugged_in">Φορτίζει %d%%</string>
     <string name="lockscreen_charged">Φορτίστηκε</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Συνδέστε τον φορτιστή.</string>

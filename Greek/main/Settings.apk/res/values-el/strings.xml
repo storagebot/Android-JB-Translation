@@ -528,7 +528,7 @@
     <string name="battery_info_awake_plugged">Ώρα αφύπνισης κατά τη φόρτιση:</string>
     <string name="battery_info_screen_on">Χρόνος ενεργοποίησης οθόνης:</string>
     <string name="battery_info_status_unknown">Άγνωστο</string>
-    <string name="battery_info_status_charging">Φόρτιση</string>
+    <string name="battery_info_status_charging">Φορτίζει</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
     <string name="battery_info_status_charging_usb">(USB)</string>
     <string name="battery_info_status_charging_wireless">(ασύρματο)</string>
@@ -1778,7 +1778,7 @@
     <string name="battery_since_reset">Χρήση μπαταρίας από τη στιγμή της επαναφοράς</string>
     <string name="battery_stats_on_battery">%1$s με μπαταρία</string>
     <string name="battery_stats_duration">%1$s από την αποσύνδεση</string>
-    <string name="battery_stats_charging_label">Φόρτιση</string>
+    <string name="battery_stats_charging_label">Φορτίζει</string>
     <string name="battery_stats_screen_on_label">Οθόνη ενεργοποιημένη</string>
     <string name="battery_stats_gps_on_label">GPS ενεργοποιημένο</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
