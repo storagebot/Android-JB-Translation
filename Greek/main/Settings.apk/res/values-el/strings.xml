@@ -1004,7 +1004,7 @@
     <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
     <string name="wifi_wps_available_first_item">Διαθέσιμο WPS</string>
     <string name="wifi_wps_available_second_item">" (Διαθέσιμο WPS)"</string>
-    <string name="wifi_secured_first_item">Ασφαλισμένα με %1$s</string>
+    <string name="wifi_secured_first_item">Ασφαλισμένο με %1$s</string>
     <string name="wifi_secured_second_item">, ασφαλισμένο με %1$s</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
